@@ -3,7 +3,7 @@
 In order to Navigate to a Cohort's Zoom Room you only need to follow a few steps.
 
 1. Log in to Zoom using your App Academy credentials.
-2. In your Browser, Navigate to the (Progress Tracker)[progress-tracker-site] Site.
+2. In your Browser, Navigate to the [Progress Tracker Site][progress-tracker-site] Site.
 3. In the upper left corner you can choose from any of the current online cohorts.
 
    ![cohort choice][progress-tracker-1]
