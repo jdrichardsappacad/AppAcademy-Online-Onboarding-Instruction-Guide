@@ -18,4 +18,9 @@ Feel free to Slack the current Module Instructor and ask for a meeting to learn 
 
 ## 3. Shadow the Instructor
 
-You should shadow the Module you are going to working in at least 3 times to get a feeling for the flow. If you have time you can also Shadow other modules. If you are going to shadow another module: 1. Slack the instructor to let them know you will be Shadowing. Maybe you have questions for them as well. 2. You can navigate to the Zoom Room for the module by using Progress Tracker.
+You should shadow your Module at least 3 times to get a feeling for the flow. If you have time you can also Shadow other modules. If you are going to shadow another module:
+
+1. Slack the instructor to let them know you will be Shadowing. Maybe you have questions for them as well.
+2. You can [navigate to the Zoom Room][navigate-to-zoom-room] for the module by using Progress Tracker.
+
+[navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
