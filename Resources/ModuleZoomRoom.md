@@ -10,7 +10,7 @@ In order to Navigate to a Cohort's Zoom Room you only need to follow a few steps
 
 4. After choosing the cohort you want to visit, press the join online button and you will be taken to the coordinating zoom room in your Zoom app.
 
-![join zoom](https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/assets/to/progress-tracker-2.png)
+![join zoom](https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/assets/progress-tracker-2.png)
 
 [progress-tracker-1]: https://aa-onboarding.s3.amazonaws.com/progress-tracker-1.png
 [progress-tracker-join-zoom]: https://aa-onboarding.s3.amazonaws.com/progress-tracker-1.png
