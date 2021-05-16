@@ -1,6 +1,6 @@
 # Module Instructor Onboarding
 
-You have been introduced to App Academy by HR and you have learned the philosophy and many of the rules of a/A.
+You have been introduced to App Academy by HR and you have learned the philosophy and many of the rules of a/A. Always feel free to refer back to the [instructor guide][instructor-guide] if you need to freshen up on Andragogy and the a/A Approach to Teaching.
 
 This onboarding tool is meant for you to learn more about the nuts and bolts of being a Module Instructor.
 
@@ -22,5 +22,7 @@ You should shadow your Module at least 3 times to get a feeling for the flow. If
 
 1. Slack the instructor to let them know you will be Shadowing. Maybe you have questions for them as well.
 2. You can [navigate to the Zoom Room][navigate-to-zoom-room] for the module by using Progress Tracker.
+3. Take notes on how class is balanced between Zoom Chat Rooms, Slack as well as the flow of the lectures.
 
+[instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
