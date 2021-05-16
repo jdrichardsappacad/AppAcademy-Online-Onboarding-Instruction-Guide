@@ -8,7 +8,7 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 
 The first think you are going to want to do is familiarize yourself with your module's material. The best place to do this is through using App Academy Open. If you have not been given access please request it from your Senior Manager. Here you will be able to study the Readings, Videos, and Projects that you will be included when teaching your Module.
 
-Another proper option for learning the written material is through using the [Modular Curriculum](https://github.com/appacademy/Modular-Curriculum/tree/staging/content)
+Another proper option for learning the written material is through using the [Modular Curriculum][modular-curriculum]
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently adminstered.
 
@@ -24,6 +24,18 @@ You should shadow your Module at least 3 times to get a feeling for the flow. If
 2. You can [navigate to the Zoom Room][navigate-to-zoom-room] for the module by using Progress Tracker.
 3. Take notes on how class is balanced between Zoom Chat Rooms, Slack, interaction with [a/A Open][app-academy-open] as well as the flow of the lectures.
 
+## 4. Prepare for Your Lectures
+
+Based on what you have learned, you are now ready to start preparing your lectures.
+Your preparation will vary based on the Module that you will be teaching.
+Here are some tips that may help you when preparing:
+
+1. If you are going to demo, look for the missing pieces between the readings, vidoes and the projects and fill in those pieces.
+2. Visual diagrams and images are a great tool for Visual Learners
+3. Practice teaching on your Zoom account and record yourself to see how well you coordinate with the tools and sharing your screen etc.
+4. If you are using web tools, practice using them while you record to make sure that your execution is seamless.
+
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
+[modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
