@@ -10,11 +10,11 @@ The first think you are going to want to do is familiarize yourself with your mo
 
 Another proper option for learning the written material is through using the [Modular Curriculum][modular-curriculum]
 
-If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently adminstered.
+If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
 ## 2. Meet With The Current Module Instructor
 
-Feel free to Slack the current Module Instructor and ask for a meeting to learn the ins and outs of the Module. They will be able to fill in the gaps that perahps have not been filled thus far.
+Feel free to Slack the current Module Instructor and ask for a meeting to learn the ins and outs of the Module. They will be able to fill in the gaps that perhaps have not been filled thus far.
 
 ## 3. Shadow the Instructor
 
@@ -27,7 +27,7 @@ You should shadow your Module at least 3 times to get a feeling for the flow. If
 ## 4. Prepare for Your Lectures
 
 Based on what you have learned, you are now ready to start preparing your lectures.
-Your preparation will vary based on the Module that you will be teaching.
+Your preparation will vary based on the Module that you will be teaching. Always keep in mind what you learned in the approach you learned in the [a/A Instructional Guide][https://appacademy.github.io/instruction-guide/learning/]
 Here are some tips that may help you when preparing:
 
 1. If you are going to demo, look for the missing pieces between the readings, vidoes and the projects and fill in those pieces.
