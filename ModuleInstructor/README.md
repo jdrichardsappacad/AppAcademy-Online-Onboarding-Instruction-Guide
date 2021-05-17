@@ -27,10 +27,11 @@ You should shadow your Module at least 3 times to get a feeling for the flow. If
 ## 4. Prepare for Your Lectures
 
 Based on what you have learned, you are now ready to start preparing your lectures.
-Your preparation will vary based on the Module that you will be teaching. Always keep in mind what you learned in the approach you learned in the [a/A Instructional Guide][https://appacademy.github.io/instruction-guide/learning/]
+Your preparation will vary based on the Module that you will be teaching. Always keep in mind what you learned in the approach you learned in the [a/A Instructional Guide][instructional-guide]
+
 Here are some tips that may help you when preparing:
 
-1. If you are going to demo, look for the missing pieces between the readings, vidoes and the projects and fill in those pieces.
+1. If you are going to demo, look for the missing pieces between the readings, videos and the projects and fill in those pieces.
 2. Visual diagrams and images are a great tool for Visual Learners
 3. Practice teaching on your Zoom account and record yourself to see how well you coordinate with the tools and sharing your screen etc.
 4. If you are using web tools, practice using them while you record to make sure that your execution is seamless.
@@ -39,3 +40,4 @@ Here are some tips that may help you when preparing:
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
+[instructional-guide]: https://appacademy.github.io/instruction-guide/learning/
