@@ -6,7 +6,7 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 
 ## **MAKE SURE YOU HAVE ACCESS**
 
-You will need access to many destinations.
+Make sure you have access to:
 
 1. 1 Password
 2. Confluence
