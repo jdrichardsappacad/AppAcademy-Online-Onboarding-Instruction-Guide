@@ -193,6 +193,30 @@ Your module will most likely have one or more assessments. Assessments always oc
 
 [Setting Up for an Assessment][setup-assessment]
 
+### Question Answering
+
+There are restricted answers to questions during an assessment. Please follow the protocol for [Answering Questions During An Assessment][assessment-questions]
+You should remind all involved internally of this document and procedure before the start of an Assessment.
+
+### Scoring An Assessment
+
+You and your team may be asked to help score an assessment.
+Navigate to Progress Tracker -> Assessments -> Scores
+You should see a column representing the current weeks assessment on the left.
+
+The `fetch` option that you see at the top is meant to be used by the Cohort Assistant. This will fetch all of the current scores. Only one person should fetch due to the lag in time caused by multiple fetches.
+
+After scores have been fetch. You can navigate to each students scores by pressing `Score` next to their name. If the autograder is working properly, you will see scores based on what has been completed.
+(Create instructions for PT score and fetching and grader sheet, manual grading)
+
+### If A Student Need More Time
+
+Sometimes students have been allowed more time due to pre-existing conditions. The CA should have a list of these students and notify you. If not, ask for this list.
+
+If a student requests more time, consult with the Cohort Assistant to arrange for it. If there is no Cohort Assistant you should reach out on Slack to the Senior Instructional Manager to receive permission to give extra time.
+
+If a student is having machine issues that cannot be repaired quickly, regart how much time passes and return that time to the in the Assessment. Also, let them know sooner than later that the time will be returned to them to avoid student panick.
+
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
@@ -206,3 +230,4 @@ Your module will most likely have one or more assessments. Assessments always oc
 [online-stopwatch]: https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8
 [release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
 [setup-assessment]: https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit
+[assessment-questions]: https://docs.google.com/document/d/1Q43WqzDlWYjqavD7CI1hJxAY5T7sPxHgO7zPpkJb7zg/edit
