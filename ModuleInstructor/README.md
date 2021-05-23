@@ -209,7 +209,7 @@ The `fetch` option that you see at the top is meant to be used by the Cohort Ass
 After scores have been fetch. You can navigate to each students scores by pressing `Score` next to their name. If the autograder is working properly, you will see scores based on what has been completed.
 (Create instructions for PT score and fetching and grader sheet, manual grading)
 
-### If A Student Need More Time
+### If A Student Needs More Time
 
 Sometimes students have been allowed more time due to pre-existing conditions. The CA should have a list of these students and notify you. If not, ask for this list.
 
