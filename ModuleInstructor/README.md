@@ -193,7 +193,7 @@ If your module has a prep week, this will be a good time to meet with your team 
 4. Some TA's may be ramping up to learning how to Lecture. This is a good time for you to have them practice lecture in front of the team and give suggestions for improvements.
 5. Curriculum may have items that they would like help with. You and your team can also volunteer to help them with curriculum if all other cohort preparation needs have been met.
 
-## Releasing the Next Cohort Curriculum to the Class
+## Releasing the Next Cohort Curriculum to the Team
 
 It is usually a good idea to release the next cohort Curriculum for a/A Open to your Jr. TA's at least a week before the cohort begins. Instructions for doing this are located at this [Confluence Link][release-curriculum]. This will allow time for everyone to review what has been released and find mistakes that require hot fixes before start of the next curriculum
 
