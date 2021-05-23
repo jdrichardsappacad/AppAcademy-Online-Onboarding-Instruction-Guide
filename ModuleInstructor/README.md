@@ -62,11 +62,9 @@ Here are some tips that may help you when preparing:
 
 ## Class Administration
 
-## Before your Cohort Starts
-
 ### Setup Your Pod
 
-Make sure to place your team into the proper Pod on Progress Tracker.
+Before your cohort starts, make sure to place your team into the proper Pod on Progress Tracker.
 
 1. Choose Pods on the left Sidebar of PT and look for the date on which the cohort began.
 2. Choose that date and you will see checkboxes next to each name.
