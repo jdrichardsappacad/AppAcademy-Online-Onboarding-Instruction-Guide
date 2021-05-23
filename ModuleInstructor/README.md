@@ -24,7 +24,7 @@ You will need access to many destinations.
 14. Instructor Dashboard
 15. Cohort Tracking Sheet
 
-## Preparation for your first time
+## Preparation for your Cohort
 
 Here are some suggestions when preparing for your specific module
 
@@ -61,6 +61,16 @@ Here are some tips that may help you when preparing:
 4. If you are using web tools, practice using them while you record to make sure that your execution is seamless.
 
 ## Class Administration
+
+## Before your Cohort Starts
+
+Make sure to place your team into the proper Pod on Progress Tracker.
+
+1. Choose Pods on the left Sidebar of PT and look for the date on which the cohort began.
+2. Choose that date and you will see checkboxes next to each name.
+3. Check the box for each teammember on the team.
+
+This will allow them to see questions on PT for this module when choosing the Questions option.
 
 ### Morning Boost
 
