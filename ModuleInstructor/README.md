@@ -178,12 +178,11 @@ Your module will most likely have one or more assessments. Assessments always oc
 [app-academy-open]: https://open.appacademy.io/
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
 [instructional-guide]: https://appacademy.github.io/instruction-guide/learning/
-
-[division-of-responsibilities]:[https://docs.google.com/document/d/1mc6o4ulw6_uo_dipr6m9jq7ie25vwh5xbcnifyw9q4w/edit]
-[gravatar]:[https://en.gravatar.com/]
-[x-curriculum-guideline]:[https://github.com/appacademy/curriculum-developer-guide/wiki/Instruction-x-Curriculum-Workflow]
-[modular-curriculum]:[https://github.com/appacademy/Modular-Curriculum/]
-[assessment-checker]:[https://github.com/appacademy/assessment_checker]
-[online-stopwatch]:[https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8]
-[release-curriculum]:[https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses]
-[setup-assessment]:[https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit]
+[division-of-responsibilities]: https://docs.google.com/document/d/1mc6o4ulw6_uo_dipr6m9jq7ie25vwh5xbcnifyw9q4w/edit
+[gravatar]: https://en.gravatar.com/
+[x-curriculum-guideline]: https://github.com/appacademy/curriculum-developer-guide/wiki/Instruction-x-Curriculum-Workflow
+[modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/
+[assessment-checker]: https://github.com/appacademy/assessment_checker
+[online-stopwatch]: https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8
+[release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
+[setup-assessment]: https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit
