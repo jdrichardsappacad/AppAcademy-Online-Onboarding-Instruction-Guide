@@ -4,7 +4,27 @@ This onboarding tool is meant for you to learn more about the nuts and bolts of 
 
 You have been introduced to App Academy by HR and you have learned the philosophy and many of the rules of a/A. Always feel free to refer back to the [instructor guide][instructor-guide] if you need to freshen up on Andragogy and the a/A Approach to Teaching.
 
-## Preparation
+## **MAKE SURE YOU HAVE ACCESS**
+
+You will need access to many destinations.
+
+1. 1 Password
+2. Confluence
+3. Progress Tracker
+4. a/A Open
+5. Slack
+6. Zoom (make sure you have a license so that you can have Host functionality)
+7. Vimeo or Google Docs (for uploading Videos)
+8. App Academy Starters
+9. Modular Curriculum
+10. Assessments Github
+11. Github groups
+12. Postman Team
+13. Namely
+14. Instructor Dashboard
+15. Cohort Tracking Sheet
+
+## Preparation for your first time
 
 Here are some suggestions when preparing for your specific module
 
