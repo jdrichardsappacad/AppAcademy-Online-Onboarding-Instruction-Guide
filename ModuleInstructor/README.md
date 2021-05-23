@@ -167,6 +167,12 @@ If your module has a prep week, this will be a good time to meet with your team 
 
 It is usually a good idea to release the next cohort Curriculum for a/A Open to your Jr. TA's at least a week before the cohort begins. Instructions for doing this are located at this [Confluence Link][release-curriculum]. This will allow time for everyone to review what has been released and find mistakes that require hot fixes before start of the next curriculum
 
+## Assessments
+
+Your module will most likely have one or more assessments. Assessments always occur on Mondays. If there is a Cohort Assistant or Principal Technical Mentor, you are not responsible for setting up or releasing the Assessment. However, you should know how to set up and release the assessment in the event that neither are present.
+
+[Setting Up for an Assessment][setup-assessment]
+
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
@@ -180,3 +186,4 @@ It is usually a good idea to release the next cohort Curriculum for a/A Open to 
 [assessment-checker]:[https://github.com/appacademy/assessment_checker]
 [online-stopwatch]:[https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8]
 [release-curriculum]:[https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses]
+[setup-assessment]:[https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit]
