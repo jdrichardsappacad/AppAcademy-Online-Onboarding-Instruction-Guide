@@ -23,6 +23,7 @@ Make sure you have access to:
 13. Namely
 14. Instructor Dashboard
 15. Cohort Tracking Sheet
+16. Kahoot Account
 
 ## Preparation for your Cohort
 
@@ -77,6 +78,10 @@ This will allow them to see questions on PT for this module when choosing the Qu
 Every class begins with a Morning Boost. Navigate to the proper week and day for your cohort and give your class 5-6 minutes to complete the morning boost. You may go over the answers with them aftewards if you choose and depending on time. If you need a stopwatch to monitor and share the time with the class you can download your own stopwatch app.
 Here is a link for an [online stopwatch][online-stopwatch] if you don't have your own.
 
+### Kahoot End of Week
+
+While it is not a requirement, creating and running a kahoot is a fun way to engage your class at the end of the week. There may already be pre-existing kahoots, or you can create your own on the a/A [Kahoot Account][kahoot-account]. If you don't know what a kahoot is you can familiarize yourself with it [here][what-is-kahoot]
+
 ### How Manage the Questions Channel
 
 **During Lecture**
@@ -90,7 +95,7 @@ A numbered diagram of squares will be shown to indicate the Zoom rooms where stu
 Monitor the floor to assure that Jr. TA's answer questions in a timely manner.
 Based on the [Division of Responsibilities][division-of-responsibilities] document, if there is a question that has been waiting for 10 or more minutes and all Jr. TA's are in other rooms, it is your responsibility to enter the floor and answer that question.
 
-**Answering A Question**
+**Answering A Question from Progress Tracker**
 
 On Progress Tracker, hover over the Square for the question you will be answering.
 When you hover, a bar should slide from the right with a `Take` label and the name of the student(s) should also be displayed. Click that label.
@@ -241,3 +246,5 @@ If a student is having machine issues that cannot be repaired quickly, regart ho
 [release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
 [setup-assessment]: https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit
 [assessment-questions]: https://docs.google.com/document/d/1Q43WqzDlWYjqavD7CI1hJxAY5T7sPxHgO7zPpkJb7zg/edit
+[kahoot-account]: https://kahoot.com/
+[what-is-kahoot]: https://kahoot.com/what-is-kahoot/
