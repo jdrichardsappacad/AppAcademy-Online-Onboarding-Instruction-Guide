@@ -82,7 +82,7 @@ Here is a link for an [online stopwatch][online-stopwatch] if you don't have you
 
 While it is not a requirement, creating and running a kahoot is a fun way to engage your class at the end of the week. There may already be pre-existing kahoots, or you can create your own on the a/A [Kahoot Account][kahoot-account]. If you don't know what a kahoot is you can familiarize yourself with it [here][what-is-kahoot]
 
-### How Manage the Questions Channel
+### How To Manage the Questions Channel
 
 **During Lecture**
 In order to maintain the pace of the class, questions should be allowed but controlled properly. During Lecture, instruct students who have long answer questions to post them in the modules `online-question` channel. The Jr. TA's should be instructed to keep an eye on the lecture channel and answer appropriate questions. If chat is enabled for the cohort, keep an eye on chat for questions as well as for hands raised on Zoom. Maintain control of the length of answers for questions as well in order to maintain class pace.
@@ -129,8 +129,8 @@ determineCurrentPageAverage = () => {
   const pageScores = [
     ...document.querySelectorAll(
       '.MuiTypography-root.MuiTypography-h4.MuiTypography-colorTextPrimary'
-    ),
-  ].map(ele => parseInt(ele.innerHTML));
+    )
+  ].map((ele) => parseInt(ele.innerHTML));
   totalScoreSum += pageScores.length;
   return pageScores.reduce((a, b) => a + b) / pageScores.length;
 };
