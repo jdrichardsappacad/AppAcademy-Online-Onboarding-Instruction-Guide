@@ -85,7 +85,7 @@ While it is not a requirement, creating and running a kahoot is a fun way to eng
 
 ### How To Manage the Questions Channel
 
-**During Lecture**
+**During Lecture**  
 In order to maintain the pace of the class, questions should be allowed but controlled properly. During Lecture, instruct students who have long answer questions to post them in the modules `online-question` channel. The Jr. TA's should be instructed to keep an eye on the lecture channel and answer appropriate questions. If chat is enabled for the cohort, keep an eye on chat for questions as well as for hands raised on Zoom. Maintain control of the length of answers for questions as well in order to maintain class pace.
 
 **During Pair Programming**
