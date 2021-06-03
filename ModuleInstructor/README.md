@@ -74,6 +74,10 @@ Before your cohort starts, make sure to place your team into the proper Pod on P
 
 This will allow them to see questions on PT for this module when choosing the Questions option.
 
+### Release the Next Cohort Curriculum
+
+Cohort curriculum should be released to your staff at least one week before the new cohort begins. (add instructions or a video here)
+
 ### Morning Boost
 
 Every class begins with a Morning Boost. Navigate to the proper week and day for your cohort and give your class 5-6 minutes to complete the morning boost. You may go over the answers with them aftewards if you choose and depending on time. If you need a stopwatch to monitor and share the time with the class you can download your own stopwatch app.
