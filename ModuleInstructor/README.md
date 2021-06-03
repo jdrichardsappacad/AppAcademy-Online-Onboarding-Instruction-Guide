@@ -70,6 +70,8 @@ Here are some tips that may help you when preparing:
 
 Before your cohort starts, make sure to place your team into the proper Pod on Progress Tracker. You will choose the pod based on the start date of the cohort.
 
+#### Progress Tracker Instructions:
+
 1. Choose Pods on the left Sidebar of PT and look for the date on which the cohort began.
 2. Choose that date and you will see checkboxes next to each name.
 3. Check the box for each team member on the team.
