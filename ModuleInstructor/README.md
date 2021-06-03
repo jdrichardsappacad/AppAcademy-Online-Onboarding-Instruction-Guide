@@ -61,11 +61,15 @@ Take a look at these [lecture tips][lecture-tips] to aid you in your preparation
 
 ## Class Administration
 
+### Meet the Incoming Cohort Assistant
+
+It is always a good idea to meet with the incoming Cohort Assistant the week prior to beginning the module. This can be done with the entire team or just you and the Cohort Assistant. This gives you the opportunity to share any changes to the curriculum as well as share what works in the module and what doesn't. It also gives the team the opportunity to find out what extra days may be needed as well as get an idea of what the incoming cohort personality and habits are.
+
 ### Setup Your Pod
 
 Before your cohort starts, make sure to place your team into the proper Pod on Progress Tracker. You will choose the pod based on the start date of the cohort.
 
-#### Progress Tracker Instructions:
+#### Progress Tracker Instructions
 
 1. Choose Pods on the left Sidebar of PT and look for the date on which the cohort began.
 2. Choose that date and you will see checkboxes next to each name.
