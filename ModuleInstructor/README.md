@@ -68,7 +68,8 @@ Here are some tips that may help you when preparing:
 
 ### Setup Your Pod
 
-Before your cohort starts, make sure to place your team into the proper Pod on Progress Tracker.
+Before your cohort starts, make sure to place your team into the proper Pod on Progress Tracker. You will choose the pod based on the start date of the cohort.
+[Pod Setup Video][pod-setup]
 
 1. Choose Pods on the left Sidebar of PT and look for the date on which the cohort began.
 2. Choose that date and you will see checkboxes next to each name.
@@ -128,7 +129,7 @@ Before conducting your One on One, you should also check the Instructor Dashboar
 
 There is also a wonderful script created by Jesse Warren to find the average of the TA's overall ratings. Navigate to the TA's comments, then paste the script in the browser console to receive the results.
 
-**Instructor Feedback Average Script**
+### Instructor Feedback Average Script
 
 ```js
 totalScoreSum = 0;
@@ -238,7 +239,7 @@ Sometimes students have been allowed more time due to pre-existing conditions. T
 
 If a student requests more time, consult with the Cohort Assistant to arrange for it. If there is no Cohort Assistant you should reach out on Slack to the Senior Instructional Manager to receive permission to give extra time.
 
-If a student is having machine issues that cannot be repaired quickly, regart how much time passes and return that time to the in the Assessment. Also, let them know sooner than later that the time will be returned to them to avoid student panick.
+If a student is having machine issues that cannot be repaired quickly, regart how much time passes and return that time to the in the Assessment. Also, let them know sooner than later that the time will be returned to them to avoid student panic.
 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
@@ -272,3 +273,4 @@ If a student is having machine issues that cannot be repaired quickly, regart ho
 [course-ids]: https://docs.google.com/spreadsheets/u/1/d/1wbQXuBVrOibPaBVt9mGuNOwhHN0PzN25n83b0hSk_To/edit#gid=911937680
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
+[pod-setup]: https://vimeo.com/558726174/fe80adb397
