@@ -42,7 +42,7 @@ If there are recorded sessions of your Module's Lectures, this may also help you
 
 ### 2. Meet With The Current Module Instructor
 
-Feel free to Slack the current Module Instructor and ask for a meeting to learn the ins and outs of the Module. They will be able to fill in the gaps that perhaps have not been filled thus far.
+If there is currently an instructor that teaches the module you will be taking over, feel free to Slack the current Module Instructor and ask for a meeting to learn the ins and outs of the Module. They will be able to fill in the gaps that perhaps have not been filled thus far.
 
 ### 3. Shadow the Instructor
 
