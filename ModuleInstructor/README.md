@@ -218,7 +218,16 @@ It is usually a good idea to release the next cohort Curriculum for a/A Open to 
 
 Your module will most likely have one or more assessments. Assessments always occur on Mondays. If there is a Cohort Assistant or Principal Technical Mentor, you are not responsible for setting up or releasing the Assessment. However, you should know how to set up and release the assessment in the event that neither are present.
 
-[Setting Up for an Assessment][setup-assessment]
+### Setup the Assessment
+
+[Setting Up for an Assessment Instructions][setup-assessment]
+[Video Instructions][setup-assessment-video]
+
+### Release the Assessment
+
+You will need the course id document and the Postman app to release the assessment to students
+
+[Assessment Release Video][assessment-release-video]
 
 ### Question Answering
 
@@ -283,3 +292,5 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [pod-setup]: https://vimeo.com/558726174/fe80adb397
+[setup-assessment-video]: https://vimeo.com/543416007/a58cfad6fa
+[assessment-release-video]: https://vimeo.com/543416007/a58cfad6fa
