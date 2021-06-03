@@ -244,7 +244,7 @@ Scores are often manually recorded by the team in a separate document created by
 
 ### Manual Grading
 
-In the event that the Autograder is not working, you may be required to help manually grade the assessment. (find out how to do this)
+In the event that the AutoGrader is not working, you may be required to help manually grade the assessment. (find out how to do this)
 
 ### If A Student Needs More Time
 
