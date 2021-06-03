@@ -69,13 +69,14 @@ Here are some tips that may help you when preparing:
 ### Setup Your Pod
 
 Before your cohort starts, make sure to place your team into the proper Pod on Progress Tracker. You will choose the pod based on the start date of the cohort.
-[Pod Setup Video][pod-setup]
 
 1. Choose Pods on the left Sidebar of PT and look for the date on which the cohort began.
 2. Choose that date and you will see checkboxes next to each name.
-3. Check the box for each teammember on the team.
+3. Check the box for each team member on the team.
 
 This will allow them to see questions on PT for this module when choosing the Questions option.
+
+[Pod Setup Video][pod-setup]
 
 ### Release the Next Cohort Curriculum
 
