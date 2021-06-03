@@ -244,11 +244,11 @@ In the event that the Autograder is not working, you may be required to help man
 
 ### If A Student Needs More Time
 
-Sometimes students have been allowed more time due to pre-existing conditions. The CA should have a list of these students and notify you. If not, ask for this list.
+Sometimes students are allowed more time due to pre-existing conditions or disabilities. This is usually pre-arranged with HR. The CA should have a list of these students and notify you. If not, ask for this list and give the student the proper extra time.
 
 If a student requests more time, consult with the Cohort Assistant to arrange for it. If there is no Cohort Assistant you should reach out on Slack to the Senior Instructional Manager to receive permission to give extra time.
 
-If a student is having machine issues that cannot be repaired quickly, regart how much time passes and return that time to the in the Assessment. Also, let them know sooner than later that the time will be returned to them to avoid student panic.
+If a student is having machine issues that cannot be repaired quickly, note how much time passes between the machine failure and repair and return that time to the student for the Assessment. Also, in order to avoid student panic, let the student know sooner rather than later that the time will be returned to them. This will give them the same opportunity as all other students to complete the assessment
 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
