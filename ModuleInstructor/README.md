@@ -8,22 +8,23 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 
 Make sure you have access to:
 
-1. 1 Password
-2. Confluence
-3. Progress Tracker
-4. a/A Open
-5. Slack
-6. Zoom (make sure you have a license so that you can have Host functionality)
-7. Vimeo or Google Docs (for uploading Videos)
-8. App Academy Starters
-9. Modular Curriculum
-10. Assessments Github
+1. [1 Password][1password]
+2. [Confluence]https://appacademyio.atlassian.net/wiki/spaces/IN/overview
+3. [Progress Tracker][progress-tracker]
+4. [a/A Open][app-academy-open]
+5. [Slack][slack]
+6. [Zoom][zoom] (make sure you have a license so that you can have Host functionality)
+7. [Vimeo][vimeo] or Google Drive (for uploading Videos)
+8. [App Academy Starters][aa-starters]
+9. [Modular Curriculum Github][modular-curriculum-github]
+10. [Assessments Github][assessments-github]
 11. Github groups
 12. Postman Team
-13. Namely
-14. Instructor Dashboard
-15. Cohort Tracking Sheet
-16. Kahoot Account
+13. [Namely][namely]
+14. [Instructor Dashboard][instructor-dashboard]
+15. Cohort Tracking Sheet (ask the current Cohort Instructor)
+16. [Kahoot Account][kahoot-account]
+17. [Discourse][discourse]
 
 ## Preparation for your Cohort
 
@@ -248,3 +249,16 @@ If a student is having machine issues that cannot be repaired quickly, regart ho
 [assessment-questions]: https://docs.google.com/document/d/1Q43WqzDlWYjqavD7CI1hJxAY5T7sPxHgO7zPpkJb7zg/edit
 [kahoot-account]: https://kahoot.com/
 [what-is-kahoot]: https://kahoot.com/what-is-kahoot/
+[1password]: https://1password.com/
+[discourse]: https://discourse.appacademy.io/
+[confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
+[progress-tracker]: https://progress.appacademy.io/
+[slack]: https://slack.com/
+[zoom]: https://zoom.us/
+[vimeo]: https://vimeo.com/
+[aa-starters]: https://github.com/appacademy-starters
+[instructor-dashboard]: https://instructor-dashboard.herokuapp.com/
+[modular-curriculum-github]: https://github.com/appacademy/Modular-Curriculum
+[assessments-github]: https://github.com/appacademy/modular-curriculum-assessments
+[namely]: https://appacademy.namely.com/users/login
+[instructor-dashboard]: https://instructor-dashboard.herokuapp.com/
