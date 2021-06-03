@@ -9,7 +9,7 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 Make sure you have access to:
 
 1. [1 Password][1password]
-2. [Confluence]https://appacademyio.atlassian.net/wiki/spaces/IN/overview
+2. [Confluence][confluence]
 3. [Progress Tracker][progress-tracker]
 4. [a/A Open][app-academy-open]
 5. [Slack][slack]
@@ -25,6 +25,8 @@ Make sure you have access to:
 15. Cohort Tracking Sheet (ask the current Cohort Instructor)
 16. [Kahoot Account][kahoot-account]
 17. [Discourse][discourse]
+18. [Course Ids][course-ids]
+19. [Instructor Guide][instructor-guide]
 
 ## Preparation for your Cohort
 
@@ -76,7 +78,7 @@ This will allow them to see questions on PT for this module when choosing the Qu
 
 ### Release the Next Cohort Curriculum
 
-Cohort curriculum should be released to your staff at least one week before the new cohort begins. (add instructions or a video here)
+Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and postman to execute the release. (add instructions or a video here)
 
 ### Morning Boost
 
@@ -267,3 +269,6 @@ If a student is having machine issues that cannot be repaired quickly, regart ho
 [assessments-github]: https://github.com/appacademy/modular-curriculum-assessments
 [namely]: https://appacademy.namely.com/users/login
 [instructor-dashboard]: https://instructor-dashboard.herokuapp.com/
+[course-ids]: https://docs.google.com/spreadsheets/u/1/d/1wbQXuBVrOibPaBVt9mGuNOwhHN0PzN25n83b0hSk_To/edit#gid=911937680
+[instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
+[confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
