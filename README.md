@@ -1,3 +1,5 @@
 # Online Onboarding Instruction Guide
 
-This will be the Introduction Leading to Where to go based on job
+## Welcome to the Team!
+
+Please Navigate to the role you have been assigned to read further instructions on the requirements for your position
