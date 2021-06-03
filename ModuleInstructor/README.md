@@ -82,7 +82,7 @@ This will allow them to see questions on PT for this module when choosing the Qu
 
 ### Release the Next Cohort Curriculum
 
-Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and postman to execute the release. (add instructions or a video here)
+Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. (add instructions or a video here)
 
 ### Morning Boost
 
@@ -91,7 +91,7 @@ Here is a link for an [online stopwatch][online-stopwatch] if you don't have you
 
 ### Kahoot End of Week
 
-While it is not a requirement, creating and running a kahoot is a fun way to engage your class at the end of the week. There may already be pre-existing kahoots, or you can create your own on the a/A [Kahoot Account][kahoot-account]. If you don't know what a kahoot is you can familiarize yourself with it [here][what-is-kahoot]
+While it is not a requirement, creating and running a kahoot is a fun way to engage your class at the end of the week. There may already be pre-existing kahoots, or you can create your own on the a/A [Kahoot Account][kahoot-account]. If you don't know what a kahoot is you can familiarize yourself with it [here][what-is-kahoot].
 
 ### How To Manage the Questions Channel
 
@@ -233,8 +233,14 @@ You should see a column representing the current weeks assessment on the left.
 
 The `fetch` option that you see at the top is meant to be used by the Cohort Assistant. This will fetch all of the current scores. Only one person should fetch due to the lag in time caused by multiple fetches.
 
-After scores have been fetch. You can navigate to each students scores by pressing `Score` next to their name. If the autograder is working properly, you will see scores based on what has been completed.
+After scores have been fetch. You can navigate to each student's scores by pressing `Score` next to their name. If the autograder is working properly, you will see scores based on what has been completed.
 (Create instructions for PT score and fetching and grader sheet, manual grading)
+
+Scores are often manually recorded by the team in a separate document created by the Cohort Assistant. Ask the Cohort Assistant for access to this document.
+
+### Manual Grading
+
+In the event that the Autograder is not working, you may be required to help manually grade the assessment. (find out how to do this)
 
 ### If A Student Needs More Time
 
