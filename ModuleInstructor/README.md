@@ -86,7 +86,7 @@ Reach out to the Cohort Assistant to see which external Slack channels you and y
 
 ### Release the Next Cohort Curriculum
 
-Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. (add instructions or a video here)
+Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. Here is a link to the instructions for adding curriculum: [Add Course Content on AAO][course-content]
 
 ### Morning Boost
 
@@ -299,3 +299,4 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [setup-assessment-video]: https://vimeo.com/543416007/a58cfad6fa
 [assessment-release-video]: https://vimeo.com/543416007/a58cfad6fa
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/LectureTips.md
+[course-content]: https://appacademyio.atlassian.net/wiki/spaces/IN/pages/1784938501/Add%2BCourse%2BContent%2Bin%2BAAO
