@@ -79,6 +79,11 @@ This will allow them to see questions on PT for this module when choosing the Qu
 
 [Pod Setup Video][pod-setup]
 
+### Add yourself and your team to the proper Cohort Slack Channels
+
+Students use an external Slack to communicate and ask questions.
+You may want to reach out to the Cohort Assistant to see which external Slack channels you and your team should join for the cohort. Add yourself to those channels before beginning the cohort.
+
 ### Release the Next Cohort Curriculum
 
 Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. (add instructions or a video here)
