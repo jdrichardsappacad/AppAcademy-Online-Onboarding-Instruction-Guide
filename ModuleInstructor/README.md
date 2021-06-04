@@ -79,7 +79,7 @@ This will allow them to see questions on PT for this module when choosing the Qu
 
 [Pod Setup Video][pod-setup]
 
-### Add yourself and your team to the proper Cohort Slack Channels
+### Add Cohort Slack Channels
 
 Students use an external Slack to communicate and ask questions.
 You may want to reach out to the Cohort Assistant to see which external Slack channels you and your team should join for the cohort. Add yourself to those channels before beginning the cohort.
