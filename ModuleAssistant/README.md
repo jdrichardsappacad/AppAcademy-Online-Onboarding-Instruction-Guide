@@ -4,6 +4,8 @@ This onboarding tool is meant for you to learn more about the nuts and bolts of 
 
 You have been working at App Academy for a while now and you have learned the philosophy and many of the rules of a/A. Always feel free to refer back to the [instructor guide][instructor-guide] if you need to freshen up on Andragogy and the a/A Approach to Teaching.
 
+Your ultimate goal in this position is to learn the duties of the Module Instructor and of the Cohort Assistant over a period of time.
+
 ## **MAKE SURE YOU HAVE ACCESS**
 
 Make sure you have access to:

@@ -59,7 +59,7 @@ Your preparation will vary based on the Module that you will be teaching. Always
 
 Take a look at these [lecture tips][lecture-tips] to aid you in your preparation.
 
-## Class Administration
+## Class Preparation
 
 ### Meet the Incoming Cohort Assistant
 
@@ -88,20 +88,28 @@ Reach out to the Cohort Assistant to see which external Slack channels you and y
 
 Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. Here is a link to the instructions for adding curriculum: [Add Course Content on AAO][course-content]
 
+## Class Administration
+
+### Before you Start Class
+
+Make sure you have turned off all notifications on the screens you will be sharing. If there are bookmarks or links or any other material that should not be seen by students please remove them from your screen prior to class.
+
+Mute all sounds that will interrupt your lecture, especially through Slack or your own personal SMS notifications
+
 ### Morning Boost
 
-Every class begins with a Morning Boost. Navigate to the proper week and day for your cohort and give your class 5-6 minutes to complete the morning boost. You may go over the answers with them aftewards if you choose and depending on time. If you need a stopwatch to monitor and share the time with the class you can download your own stopwatch app.
+Every class begins with a Morning Boost. Navigate to the proper week and day for your cohort and give your class 5-6 minutes to complete the morning boost. You may go over the answers with them afterwards if you choose and depending on time. If you need a stopwatch to monitor and share the time with the class you can download your own stopwatch app.
 Here is a link for an [online stopwatch][online-stopwatch] if you don't have your own.
 
-### Kahoot End of Week
+### Learning Objectives
 
-While it is not a requirement, creating and running a kahoot is a fun way to engage your class at the end of the week. There may already be pre-existing kahoots, or you can create your own on the a/A [Kahoot Account][kahoot-account]. If you don't know what a kahoot is you can familiarize yourself with it [here][what-is-kahoot].
+Go over the Learning Objectives for the day with the class before starting the lecture and if there is time afterwards run through them again to show that you have covered them.
 
 ### How To Manage the Questions Channel
 
 #### During Lecture
 
-In order to maintain the pace of the class, questions should be allowed but controlled properly. During Lecture, instruct students who have long answer questions to post them in the modules `online-question` channel. The Jr. TA's should be instructed to keep an eye on the lecture channel and answer appropriate questions. If chat is enabled for the cohort, keep an eye on chat for questions as well as for hands raised on Zoom. Maintain control of the length of answers for questions as well in order to maintain class pace.
+In order to maintain the pace of the class, questions should be allowed but controlled properly. During Lecture, instruct students who have long answer questions to post them in the modules `online-question` Slack channel. The Jr. TA's should be instructed to keep an eye on the lecture channel and answer appropriate questions. If chat is enabled for the cohort, keep an eye on chat for questions as well as for hands raised on Zoom. Maintain control of the length of answers for questions as well in order to maintain class pace.
 
 #### During Pair Programming
 
@@ -117,6 +125,10 @@ On Progress Tracker, hover over the Square for the question you will be answerin
 When you hover, a bar should slide from the right with a `Take` label and the name of the student(s) should also be displayed. Click that label.
 Your [Avatar][gravatar], if you have one will show next to the square. Next on Zoom, navigate to the Breakout room for the student and answer their question(s).
 After you have completed the question(s), return to the Progress Tracker and hover over the question that you took. A sidebar with `Close` should be displayed. Choose `Close` to close out your question. If there are no more long standing questions you can go back to prepping for your next lecture.
+
+### Kahoot End of Week
+
+While it is not a requirement, creating and running a kahoot is a fun way to engage your class at the end of the week. There may already be pre-existing kahoots, or you can create your own on the a/A [Kahoot Account][kahoot-account]. If you don't know what a kahoot is you can familiarize yourself with it [here][what-is-kahoot].
 
 ## Managing Mentoring you Module Team
 
