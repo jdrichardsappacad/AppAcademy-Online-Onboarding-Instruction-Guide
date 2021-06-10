@@ -283,7 +283,7 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
-[navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
+[navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/module-zoom-room.md
 [instructional-guide]: https://appacademy.github.io/instruction-guide/learning/
 [division-of-responsibilities]: https://docs.google.com/document/d/1mc6o4ulw6_uo_dipr6m9jq7ie25vwh5xbcnifyw9q4w/edit
 [gravatar]: https://en.gravatar.com/
@@ -315,7 +315,7 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [pod-setup]: https://vimeo.com/558726174/fe80adb397
 [setup-assessment-video]: https://vimeo.com/543416007/a58cfad6fa
 [assessment-release-video]: https://vimeo.com/543416007/a58cfad6fa
-[lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/LectureTips.md
+[lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/lecture-tips.md
 [course-content]: https://appacademyio.atlassian.net/wiki/spaces/IN/pages/1784938501/Add%2BCourse%2BContent%2Bin%2BAAO
 [Google Drive]:https://drive.google.com/drive/u/1/my-drive
 [Google Calendar]:https://calendar.google.com/calendar/u/1/r

@@ -26,7 +26,7 @@ This portion of the guide contains a collection of additional resources that don
 
 <!-- Links -->
 
-[module-instructor]: ./ModuleInstructor
-[module-assistant]: ./ModuleAssistant
-[jr-ta]: ./JrTA
-[Resources]: ./Resources
+[module-instructor]: ./module-instructor
+[module-assistant]: ./module-assistant
+[jr-ta]: ./jr-ta
+[Resources]: ./resources
