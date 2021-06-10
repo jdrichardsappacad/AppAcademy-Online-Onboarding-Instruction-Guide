@@ -35,7 +35,7 @@ Another proper option for learning the written material is through using the [Mo
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
-### Shadow A Jr. TA
+### Shadow a Jr. TA
 
 You will shadow one or more Jr. TA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone. Remember the suggestions from the [Instructor's Guide][debugging] in terms of debugging.
 
@@ -48,7 +48,7 @@ During lecture you will be responsible for answering questions via the Online Qu
 You are responsible for answering student questions via the Progress Tracker Tool.
 
 After you have signed in to [Progress Tracker][progress-tracker], choose the `Questions` option in the Left Sidebar.
-A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers.
+A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers. Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging].
 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
