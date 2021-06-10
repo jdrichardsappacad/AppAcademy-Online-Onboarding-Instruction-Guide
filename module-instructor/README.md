@@ -131,6 +131,9 @@ When you hover, a bar should slide from the right with a `Take` label and the na
 Your [Avatar][gravatar], if you have one will show next to the square. Next on Zoom, navigate to the Breakout room for the student and answer their question(s).
 After you have completed the question(s), return to the Progress Tracker and hover over the question that you took. A sidebar with `Close` should be displayed. Choose `Close` to close out your question. If there are no more long standing questions you can go back to prepping for your next lecture.
 
+#### How To Take And Close A Question on Progress Tracker
+(make instructions or do they exist)
+
 ### Kahoot End of Week
 
 While it is not a requirement, creating and running a kahoot is a fun way to engage your class at the end of the week. There may already be pre-existing kahoots, or you can create your own on the a/A [Kahoot Account][kahoot-account]. If you don't know what a kahoot is you can familiarize yourself with it [here][what-is-kahoot].
