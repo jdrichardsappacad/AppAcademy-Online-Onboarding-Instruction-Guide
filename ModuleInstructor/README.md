@@ -1,3 +1,4 @@
+
 # Module Instructor Onboarding
 
 This onboarding tool is meant for you to learn more about the nuts and bolts of being a Module Instructor.
@@ -34,7 +35,7 @@ Here are some suggestions when preparing for your specific module
 
 ### 1. Learn the Material
 
-The first think you are going to want to do is familiarize yourself with your module's material. The best place to do this is through using App Academy Open. If you have not been given access please request it from your Senior Manager. Here you will be able to study the Readings, Videos, and Projects that you will be included when teaching your Module.
+The first thing you are going to want to do is familiarize yourself with your module's material. The best place to do this is through using App Academy Open. If you have not been given access please request it from your Senior Manager. Here you will be able to study the Readings, Videos, and Projects that will be included when teaching your Module.
 
 Another proper option for learning the written material is through using the [Modular Curriculum][modular-curriculum]
 
