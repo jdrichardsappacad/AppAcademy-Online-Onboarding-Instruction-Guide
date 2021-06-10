@@ -1,3 +1,6 @@
 # Resources
 
-This directory holds resources that will be referenced in onboarding instructions.
+1. [Student Code Of Conduct][code-of-conduct]
+
+
+[code-of-conduct]:./CodeOfConduct.md
