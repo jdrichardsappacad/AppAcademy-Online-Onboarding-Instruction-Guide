@@ -29,7 +29,6 @@ This portion of the guide contains a collection of additional resources that don
 [module-instructor]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/module-instructor
 [module-assistant]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/module-assisstant
 [jr-ta]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/jr-ta
-[resources]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/Resources
 [module-instructor]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/module-instructor
 [module-assistant]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/module-assisstant
 [jr-ta]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/jr-ta
