@@ -43,12 +43,45 @@ You will shadow one or more Jr. TA's for a few days or until the Module Instruct
 
 During lecture you will be responsible for answering questions via the Online Question Slack Channel that coordinates with your module.
 
-### During Pair Programming
+### Answering Questions During Pair Programming
 
 You are responsible for answering student questions via the Progress Tracker Tool.
 
 After you have signed in to [Progress Tracker][progress-tracker], choose the `Questions` option in the Left Sidebar.
-A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers. Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging].
+A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers. 
+
+Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging] as well as the [Anatomy of Answering Questions][anatomy-of-answering-questions].
+
+## Answering Questions During An Assessment
+
+There are restricted answers to questions during an assessment. Please follow the protocol for [Answering Questions During An Assessment][assessment-questions]
+You should remind all involved internally of this document and procedure before the start of an Assessment.
+
+### Scoring An Assessment
+
+You and your team may be asked to help score an assessment.
+Navigate to Progress Tracker -> Assessments -> Scores
+You should see a column representing the current weeks assessment on the left.
+
+The `fetch` option that you see at the top is meant to be used by the Cohort Assistant. This will fetch all of the current scores. Only one person should fetch due to the lag in time caused by multiple fetches.
+
+After scores have been fetched. You can navigate to each student's scores by pressing `Score` next to their name. If the autograder is working properly, you will see scores based on what has been completed.
+(Create instructions for PT score and fetching and grader sheet, manual grading)
+
+Scores are often manually recorded by the team in a separate document created by the Cohort Assistant. Ask the Cohort Assistant for access to this document.
+
+### Manual Grading
+
+In the event that the AutoGrader is not working, you may be required to help manually grade the assessment. (find out how to do this)
+
+### If A Student Needs More Time
+
+Sometimes students are allowed more time due to pre-existing conditions or disabilities. This is usually pre-arranged with HR. The CA should have a list of these students and notify you. If not, ask for this list and give the student the proper extra time.
+
+If a student requests more time, consult with the Cohort Assistant to arrange for it. If there is no Cohort Assistant you should reach out on Slack to the Senior Instructional Manager to receive permission to give extra time.
+
+If a student is having machine issues that cannot be repaired quickly, note how much time passes between the machine failure and repair and return that time to the student for the Assessment. Also, in order to avoid student panic, let the student know sooner rather than later that the time will be returned to them. This will give them the same opportunity as all other students to complete the assessment.
+
 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
@@ -62,11 +95,7 @@ A numbered diagram of squares will be shown to indicate the Zoom rooms where stu
 [assessment-checker]: https://github.com/appacademy/assessment_checker
 [online-stopwatch]: https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8
 [release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
-[setup-assessment]: https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit
 [assessment-questions]: https://docs.google.com/document/d/1Q43WqzDlWYjqavD7CI1hJxAY5T7sPxHgO7zPpkJb7zg/edit
-[kahoot-account]: https://kahoot.com/
-[what-is-kahoot]: https://kahoot.com/what-is-kahoot/
-[1password]: https://1password.com/
 [discourse]: https://discourse.appacademy.io/
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [progress-tracker]: https://progress.appacademy.io/
@@ -82,3 +111,4 @@ A numbered diagram of squares will be shown to indicate the Zoom rooms where stu
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/LectureTips.md
 [debugging]:https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.yf44acf1qaiy
+[anatomy-of-answering-questions]:https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.tu721xd89uwd
