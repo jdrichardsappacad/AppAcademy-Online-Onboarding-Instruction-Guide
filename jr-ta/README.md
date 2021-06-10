@@ -50,7 +50,11 @@ You are responsible for answering student questions via the Progress Tracker Too
 After you have signed in to [Progress Tracker][progress-tracker], choose the `Questions` option in the Left Sidebar.
 A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers. 
 
+#### How To Take And Close A Question on Progress Tracker
+(make instructions or do they exist)
+
 Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging] as well as the [Anatomy of Answering Questions][anatomy-of-answering-questions].
+
 
 ## Answering Questions During An Assessment
 
