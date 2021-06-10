@@ -7,6 +7,8 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 
 ## **MAKE SURE YOU HAVE ACCESS**
 
+You will use your App Academy Email Credentials for many of these links.
+
 Make sure you have access to:
 
 1. [1 Password][1password]
@@ -28,6 +30,8 @@ Make sure you have access to:
 17. [Discourse][discourse]
 18. [Course Ids][course-ids]
 19. [Instructor Guide][instructor-guide]
+20. [Google Drive][google-drive]
+21. [Google Calendar][google-calendar]
 
 ## Preparation for your Cohort
 
@@ -114,7 +118,7 @@ In order to maintain the pace of the class, questions should be allowed but cont
 
 #### During Pair Programming
 
-In the Progress Tracker, choose the `Questions` option in the Left Sidebar.
+After you have signed in to [Progress Tracker][progress-tracker], choose the `Questions` option in the Left Sidebar.
 A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers.
 
 Monitor the floor to assure that Jr. TA's answer questions in a timely manner.
@@ -313,3 +317,5 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [assessment-release-video]: https://vimeo.com/543416007/a58cfad6fa
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/LectureTips.md
 [course-content]: https://appacademyio.atlassian.net/wiki/spaces/IN/pages/1784938501/Add%2BCourse%2BContent%2Bin%2BAAO
+[Google Drive]:https://drive.google.com/drive/u/1/my-drive
+[Google Calendar]:https://calendar.google.com/calendar/u/1/r

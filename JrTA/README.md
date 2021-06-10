@@ -35,12 +35,20 @@ Another proper option for learning the written material is through using the [Mo
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
+### 3. Shadow A Jr. TA
 
+You will shadow one or more Jr. TA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone. Remember the suggestions from the [Instructor's Guide][debugging] in terms of debugging.
 
+### Lecture
 
+During lecture you will be responsible for answering questions via the Online Question Slack Channel that coordinates with your module.
 
+### During Pair Programming
 
+You are responsible for answering student questions via the Progress Tracker Tool.
 
+After you have signed in to [Progress Tracker][progress-tracker], choose the `Questions` option in the Left Sidebar.
+A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers.
 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
@@ -73,3 +81,4 @@ If there are recorded sessions of your Module's Lectures, this may also help you
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/LectureTips.md
+[debugging]:https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.yf44acf1qaiy
