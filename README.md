@@ -29,4 +29,4 @@ This portion of the guide contains a collection of additional resources that don
 [module-instructor]: ./ModuleInstructor
 [module-assistant]: ./ModuleAssistant
 [jr-ta]: ./JrTA
-[Resources]: ./resources
+[Resources]: ./Resources
