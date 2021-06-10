@@ -52,10 +52,13 @@ A numbered diagram of squares will be shown to indicate the Zoom rooms where stu
 
 #### Answering A Question from Progress Tracker
 
-On Progress Tracker, hover over the Square for the question you will be answering.
-When you hover, a bar should slide from the right with a `Take` label and the name of the student(s) should also be displayed. Click that label.
-Your [Avatar][gravatar], if you have one will show next to the square. Next on Zoom, navigate to the Breakout room for the student and answer their question(s).
-After you have completed the question(s), return to the Progress Tracker and hover over the question that you took. A sidebar with `Close` should be displayed. Choose `Close` to close out your question. If there are no more long standing questions you can go back to prepping for your next lecture.
+1. Navigate to [Progress Tracker][progress-tracker]. 
+2. Choose the `Questions` Link in the left sidebar. This should display the student breakout rooms for the cohort. A square for a question will be green, yellow, or red depending on time that has passed since the button was clicked
+3. Hover over the Square for the question you want to answer. When you hover, a bar should slide from the right with a `Take` label. The name(s) of the student(s) should also be displayed. 
+4. Click that label. Your [Avatar][gravatar], if you have one will show next to the square. This lets your teammates know you have taken the question. 
+5. Next on Zoom, navigate to the Breakout room for the student(s) and answer their question(s).
+6. After you have completed the question(s), return to the Progress Tracker and hover over the question square with your avatar. A sidebar with `Close` should be displayed. 
+7. Choose `Close` to close out your question.
 
 **Reminder**
 Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging] as well as the [Anatomy of Answering Questions][anatomy-of-answering-questions].
