@@ -59,11 +59,11 @@ You should remind all involved internally of this document and procedure before 
 
 ### Scoring An Assessment
 
-You and your team may be asked to help score an assessment.
-Navigate to Progress Tracker -> Assessments -> Scores
+You may be asked to help score an assessment.
+Navigate to [Progress Tracker][progress-tracker] -> Assessments -> Scores
 You should see a column representing the current weeks assessment on the left.
 
-The `fetch` option that you see at the top is meant to be used by the Cohort Assistant. This will fetch all of the current scores. Only one person should fetch due to the lag in time caused by multiple fetches.
+The `fetch` option that you see at the top is meant to be used only by the Cohort Assistant unless otherwise advised. This will fetch all of the current scores.
 
 After scores have been fetched. You can navigate to each student's scores by pressing `Score` next to their name. If the autograder is working properly, you will see scores based on what has been completed.
 (Create instructions for PT score and fetching and grader sheet, manual grading)
