@@ -258,7 +258,7 @@ You should see a column representing the current weeks assessment on the left.
 
 The `fetch` option that you see at the top is meant to be used by the Cohort Assistant. This will fetch all of the current scores. Only one person should fetch due to the lag in time caused by multiple fetches.
 
-After scores have been fetch. You can navigate to each student's scores by pressing `Score` next to their name. If the autograder is working properly, you will see scores based on what has been completed.
+After scores have been fetched. You can navigate to each student's scores by pressing `Score` next to their name. If the autograder is working properly, you will see scores based on what has been completed.
 (Create instructions for PT score and fetching and grader sheet, manual grading)
 
 Scores are often manually recorded by the team in a separate document created by the Cohort Assistant. Ask the Cohort Assistant for access to this document.
