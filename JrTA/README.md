@@ -23,11 +23,11 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 
 Here are some suggestions when preparing for your specific module
 
-### 1. Meet With The Current Module Instructor
+### Meet With The Current Module Instructor
 
 Meet with your module instructor to find out the daily nuances of the module as well as what your immediate and future expectations will be.
 
-### 2. Learn the Material
+### Learn the Material
 
 The first thing you are going to want to do is familiarize yourself with your module's material. The best place to do this is through using App Academy Open. If you have not been given access please request it from your Senior Manager. Here you will be able to study the Readings, Videos, and Projects that you will be included when teaching your Module.
 
@@ -35,7 +35,7 @@ Another proper option for learning the written material is through using the [Mo
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
-### 3. Shadow A Jr. TA
+### Shadow A Jr. TA
 
 You will shadow one or more Jr. TA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone. Remember the suggestions from the [Instructor's Guide][debugging] in terms of debugging.
 
