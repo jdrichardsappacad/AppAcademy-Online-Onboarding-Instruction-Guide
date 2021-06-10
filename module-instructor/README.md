@@ -5,7 +5,7 @@ This onboarding tool is meant for you to learn more about the nuts and bolts of 
 
 You have been introduced to App Academy by HR and you have learned the philosophy and many of the rules of a/A. Always feel free to refer back to the [instructor guide][instructor-guide] if you need to freshen up on Andragogy and the a/A Approach to Teaching.
 
-## **MAKE SURE YOU HAVE ACCESS**
+## **Make Sure You Have Access**
 
 You will use your App Academy Email Credentials for many of these links.
 

@@ -4,7 +4,7 @@ This onboarding tool is meant for you to learn more about the nuts and bolts of 
 
 You have been introduced to App Academy by HR and you have learned the philosophy and many of the rules of a/A.
 
-## **MAKE SURE YOU HAVE ACCESS**
+## **Make Sure You Have Access**
 
 1. [Confluence][confluence]
 2. [Progress Tracker][progress-tracker]
