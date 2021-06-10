@@ -8,13 +8,16 @@ Please Navigate to the role you have been assigned and read the requirements and
 
 ## Table of Contents
 
+This portion of the guide contains instructions and guidelines based on the role you have been assigned
+
 1. [Module Instructor][module-instructor]
 2. [Module Assistant][module-assistant]
 3. [JR. TA][jr-ta]
-4. [Resources][resources]
 
-This portion of the guide contains a collection of additional resources that don't necessarily fit into any of the above categories. Documentation on many of the applications/tools/scripts utilized by the Instruction Team can be found here.
+This portion of the guide contains a collection of additional resources.
+Documentation on many of the applications/tools/scripts utilized by the Instruction Team can be found here.
 
+1. [Resources][resources]
 <!-- Links -->
 
 [module-instructor]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/module-instructor
