@@ -45,7 +45,4 @@ This portion of the guide contains a collection of additional resources that don
 [Module Instructor]: ./ModuleInstructor
 [Module Assistant]: ./ModuleAssistant
 [JR. TA]: ./JrTA
-[Policies & Best Practices]: ./policies-and-best-practices
-[Onboarding]: ./onboarding
-[Team Structure]: ./team-structure
 [Resources]: ./resources
