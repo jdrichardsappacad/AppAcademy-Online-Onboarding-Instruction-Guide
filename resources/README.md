@@ -8,4 +8,4 @@
 
 [lecture-tips]:https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/lecture-tips.md
 
-[navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/module-zoom-room.md
+[navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/module-zoom-room.md
