@@ -52,17 +52,21 @@ During lecture you will be responsible for answering questions via the Online Qu
 You are responsible for answering student questions via the Progress Tracker Tool.
 
 After you have signed in to [Progress Tracker][progress-tracker], choose the `Questions` option in the Left Sidebar.
-A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers. 
+A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers.
 
 #### Answering A Question from Progress Tracker
 
-1. Navigate to [Progress Tracker][progress-tracker]. 
+1. Navigate to [Progress Tracker][progress-tracker].
 2. Choose the `Questions` Link in the left sidebar. This should display the student breakout rooms for the cohort. A square for a question will be green, yellow, or red depending on time that has passed since the button was clicked
-3. Hover over the Square for the question you want to answer. When you hover, a bar should slide from the right with a `Take` label. The name(s) of the student(s) should also be displayed. 
-4. Click that label. Your [Avatar][gravatar], if you have one will show next to the square. This lets your teammates know you have taken the question. 
+3. Hover over the Square for the question you want to answer. When you hover, a bar should slide from the right with a `Take` label. The name(s) of the student(s) should also be displayed.
+4. Click that label. Your [Avatar][gravatar], if you have one will show next to the square. This lets your teammates know you have taken the question.
 5. Next on Zoom, navigate to the Breakout room for the student(s) and answer their question(s).
-6. After you have completed the question(s), return to the Progress Tracker and hover over the question square with your avatar. A sidebar with `Close` should be displayed. 
+6. After you have completed the question(s), return to the Progress Tracker and hover over the question square with your avatar. A sidebar with `Close` should be displayed.
 7. Choose `Close` to close out your question.
+
+#### Answering Questions in Slack
+
+Be Mindful of your tone and response when answering a question in Slack. Check documentation for accuracy. If you can find an MDN supporting document it is also often worth posting over handing the student the explanation.
 
 **Reminder**
 Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging] as well as the [Anatomy of Answering Questions][anatomy-of-answering-questions].
@@ -174,6 +178,6 @@ console.log(
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/LectureTips.md
-[debugging]:https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.yf44acf1qaiy
-[anatomy-of-answering-questions]:https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.tu721xd89uwd
-[main-page]:https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
+[debugging]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.yf44acf1qaiy
+[anatomy-of-answering-questions]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.tu721xd89uwd
+[main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
