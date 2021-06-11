@@ -1,3 +1,7 @@
+/* 
+  Copy and paste this code in your console after navigating to your score page on the Instructor Dashboard
+*/
+
 totalScoreSum = 0;
 limit = undefined; // change to a number to limit to a number of pages (x20 for scores)
 determineCurrentPageAverage = () => {
