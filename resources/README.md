@@ -3,6 +3,7 @@
 1. [Student Code Of Conduct][code-of-conduct]
 2. [Lecture Tips][lecture-tips]
 3. [Navigate to Your Zoom Room][navigate-to-zoom-room]
+4. [Instructor Feedback Average][instructor-feedback-average]
 
 [Main Page][main-page]
 
