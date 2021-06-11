@@ -35,6 +35,8 @@ Make sure you have access to:
 
 Refer to the [Division of Responsibilities][division-of-responsibilities] to know your role and the role of your other co-workers.
 
+[Main Page][main-page]
+
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
@@ -68,3 +70,4 @@ Refer to the [Division of Responsibilities][division-of-responsibilities] to kno
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [pod-setup]: https://vimeo.com/558726174/fe80adb397
+[main-page]:https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide

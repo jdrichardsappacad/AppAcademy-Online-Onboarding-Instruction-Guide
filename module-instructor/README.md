@@ -285,6 +285,8 @@ If a student requests more time, consult with the Cohort Assistant to arrange fo
 
 If a student is having machine issues that cannot be repaired quickly, note how much time passes between the machine failure and repair and return that time to the student for the Assessment. Also, in order to avoid student panic, let the student know sooner rather than later that the time will be returned to them. This will give them the same opportunity as all other students to complete the assessment.
 
+[Main][main-page]
+
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
@@ -324,3 +326,4 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [course-content]: https://appacademyio.atlassian.net/wiki/spaces/IN/pages/1784938501/Add%2BCourse%2BContent%2Bin%2BAAO
 [Google Drive]:https://drive.google.com/drive/u/1/my-drive
 [Google Calendar]:https://calendar.google.com/calendar/u/1/r
+[main-page]:https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
