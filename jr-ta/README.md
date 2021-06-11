@@ -39,20 +39,24 @@ Another proper option for learning the written material is through using the [Mo
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
-### Shadow a Jr. TA
+### Shadow a Jr. TA or Senior Instructor
 
-You will shadow one or more Jr. TA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone. Remember the suggestions from the [Instructor's Guide][debugging] in terms of debugging.
+You will shadow one or more Jr. TA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone.
 
 ### Lecture
 
 During lecture you will be responsible for answering questions via the Online Question Slack Channel that coordinates with your module.
 
+#### Answering Questions in Slack
+
+Be Mindful of your tone and response when answering a question in Slack. Check documentation for accuracy when necessary. If you can find an MDN supporting document it is also often worth posting over handing the student the explanation.
+
+**Reminder**
+Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging] as well as the [Anatomy of Answering Questions][anatomy-of-answering-questions].
+
 ### Answering Questions During Pair Programming
 
 You are responsible for answering student questions via the Progress Tracker Tool.
-
-After you have signed in to [Progress Tracker][progress-tracker], choose the `Questions` option in the Left Sidebar.
-A numbered diagram of squares will be shown to indicate the Zoom rooms where students are working. The numbers in the rooms will often but not always match the Zoom Breakout Room numbers.
 
 #### Answering A Question from Progress Tracker
 
@@ -64,12 +68,9 @@ A numbered diagram of squares will be shown to indicate the Zoom rooms where stu
 6. After you have completed the question(s), return to the Progress Tracker and hover over the question square with your avatar. A sidebar with `Close` should be displayed.
 7. Choose `Close` to close out your question.
 
-#### Answering Questions in Slack
+#### Debugging
 
-Be Mindful of your tone and response when answering a question in Slack. Check documentation for accuracy. If you can find an MDN supporting document it is also often worth posting over handing the student the explanation.
-
-**Reminder**
-Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging] as well as the [Anatomy of Answering Questions][anatomy-of-answering-questions].
+Refer to the suggestions from the [Instructor's Guide][debugging] in terms of debugging.
 
 ## Answering Questions During An Assessment
 
