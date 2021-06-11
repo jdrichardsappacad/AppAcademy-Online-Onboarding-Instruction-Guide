@@ -19,6 +19,10 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 11. [Discourse][discourse]
 12. [Instructor Guide][instructor-guide]
 
+## Division of Responsibilities
+
+Refer to the [Division of Responsibilities][division-of-responsibilities] to know your role and the role of your other co-workers.
+
 ## Preparation for your Cohort
 
 Here are some suggestions when preparing for your specific module
