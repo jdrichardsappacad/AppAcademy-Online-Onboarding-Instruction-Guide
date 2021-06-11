@@ -1,4 +1,3 @@
-
 # Module Instructor Onboarding
 
 This onboarding tool is meant for you to learn more about the nuts and bolts of being a Module Instructor.
@@ -51,7 +50,9 @@ If there is currently an instructor that teaches the module you will be taking o
 
 ### 3. Shadow the Instructor
 
-You should shadow your Module at least 3 times to get a feeling for the flow. If you have time you can also Shadow other modules. If you are going to shadow another module:
+Shadow your Module's lectures at least twice to get a feeling for the flow. If you have time you can also Shadow other modules.
+
+If you are going to shadow another module:
 
 1. Slack the instructor to let them know you will be Shadowing. Maybe you have questions for them as well.
 2. You can [navigate to the Zoom Room][navigate-to-zoom-room] for the module by using Progress Tracker.
@@ -126,13 +127,13 @@ Based on the [Division of Responsibilities][division-of-responsibilities] docume
 
 #### Answering A Question from Progress Tracker
 
-1. Navigate to [Progress Tracker][progress-tracker]. 
+1. Navigate to [Progress Tracker][progress-tracker].
 2. Choose the `Questions` Link in the left sidebar. This should display the student breakout rooms for the cohort. A square for a question will be green, yellow, or red depending on time that has passed since the button was clicked
-3. Hover over the Square for the question you want to answer. When you hover, a bar should slide from the right with a `Take` label. The name(s) of the student(s) should also be displayed. 
-4. Click that label. Your [Avatar][gravatar], if you have one will show next to the square. This lets your teammates know you have taken the question. 
+3. Hover over the Square for the question you want to answer. When you hover, a bar should slide from the right with a `Take` label. The name(s) of the student(s) should also be displayed.
+4. Click that label. Your [Avatar][gravatar], if you have one will show next to the square. This lets your teammates know you have taken the question.
 5. Next on Zoom, navigate to the Breakout room for the student(s) and answer their question(s).
-6. After you have completed the question(s), return to the Progress Tracker and hover over the question square with your avatar. A sidebar with `Close` should be displayed. 
-7. Choose `Close` to close out your question. 
+6. After you have completed the question(s), return to the Progress Tracker and hover over the question square with your avatar. A sidebar with `Close` should be displayed.
+7. Choose `Close` to close out your question.
 
 If there are no more long standing questions you can go back to prepping for your next lecture or any other duties you have been assigned.
 
@@ -324,6 +325,6 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [assessment-release-video]: https://vimeo.com/543416007/a58cfad6fa
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/lecture-tips.md
 [course-content]: https://appacademyio.atlassian.net/wiki/spaces/IN/pages/1784938501/Add%2BCourse%2BContent%2Bin%2BAAO
-[Google Drive]:https://drive.google.com/drive/u/1/my-drive
-[Google Calendar]:https://calendar.google.com/calendar/u/1/r
-[main-page]:https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
+[google drive]: https://drive.google.com/drive/u/1/my-drive
+[google calendar]: https://calendar.google.com/calendar/u/1/r
+[main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
