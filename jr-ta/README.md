@@ -63,7 +63,6 @@ A numbered diagram of squares will be shown to indicate the Zoom rooms where stu
 **Reminder**
 Remember to follow the debugging structure which you can reference in the [Instructor's Guide][debugging] as well as the [Anatomy of Answering Questions][anatomy-of-answering-questions].
 
-
 ## Answering Questions During An Assessment
 
 There are restricted answers to questions during an assessment. Please follow the protocol for [Answering Questions During An Assessment][assessment-questions]
@@ -93,6 +92,54 @@ Sometimes students are allowed more time due to pre-existing conditions or disab
 If a student requests more time, consult with the Cohort Assistant to arrange for it. If there is no Cohort Assistant inform your Module Instructor and they will reach out to the Senior Instructional Manager to receive permission to give extra time.
 
 If a student is having machine issues that cannot be repaired quickly, note how much time passes between the machine failure and repair and return that time to the student for the Assessment. Also, in order to avoid student panic, let the student know sooner rather than later that the time will be returned to them. This will give them the same opportunity as all other students to complete the assessment.
+
+### Reviews
+
+Be sure to check the [Instructor Dashboard][instructor-dashboard] regularly. This will allow you to see how you are being received by the students when you help them. It will also allow you to continually adjust and improve your approach to students and debugging as you continue in the Module.
+
+### Instructor Feedback Average Script
+
+```js
+totalScoreSum = 0;
+limit = undefined; // change to a number to limit to a number of pages (x20 for scores)
+determineCurrentPageAverage = () => {
+  const pageScores = [
+    ...document.querySelectorAll(
+      '.MuiTypography-root.MuiTypography-h4.MuiTypography-colorTextPrimary'
+    )
+  ].map((ele) => parseInt(ele.innerHTML));
+  totalScoreSum += pageScores.length;
+  return pageScores.reduce((a, b) => a + b) / pageScores.length;
+};
+runningSum = determineCurrentPageAverage();
+paginations = [...document.querySelector('.MuiPagination-ul').children];
+paginationCount = limit
+  ? limit
+  : parseInt(paginations[paginations.length - 2].innerText);
+for (i = 1; i < paginationCount; i++) {
+  paginations = [...document.querySelector('.MuiPagination-ul').children];
+  let page;
+  if (i < 6) {
+    page = paginations[i].children[0];
+  } else {
+    if (paginationCount - 2 <= i) {
+      console.log('last two!');
+      page = paginations[6 + i - (paginationCount - 2)].children[0];
+    } else {
+      page = paginations[5].children[0];
+    }
+  }
+  page.click();
+  runningSum += determineCurrentPageAverage();
+}
+console.log(
+  'Your average score is:',
+  runningSum / paginationCount,
+  'across',
+  totalScoreSum,
+  'scores'
+);
+```
 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
