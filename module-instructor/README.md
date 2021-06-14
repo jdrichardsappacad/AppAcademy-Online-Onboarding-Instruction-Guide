@@ -31,6 +31,7 @@ Make sure you have access to:
 19. [Instructor Guide][instructor-guide]
 20. [Google Drive][google-drive]
 21. [Google Calendar][google-calendar]
+22. [Curriculum Management Tool][curriculum-management-tool]:([instructions]:[cmt-instructions])
 
 ## Preparation for your Cohort
 
@@ -325,6 +326,8 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [assessment-release-video]: https://vimeo.com/543416007/a58cfad6fa
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/lecture-tips.md
 [course-content]: https://appacademyio.atlassian.net/wiki/spaces/IN/pages/1784938501/Add%2BCourse%2BContent%2Bin%2BAAO
-[google drive]: https://drive.google.com/drive/u/1/my-drive
-[google calendar]: https://calendar.google.com/calendar/u/1/r
+[google-drive]: https://drive.google.com/drive/u/1/my-drive
+[google-calendar]: https://calendar.google.com/calendar/u/1/r
 [main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
+[curriculum-management-tool]: https://cmt.appacademy.tools/
+[cmt-instructions]: https://discourse.appacademy.io/t/curriculum-management-tool/403
