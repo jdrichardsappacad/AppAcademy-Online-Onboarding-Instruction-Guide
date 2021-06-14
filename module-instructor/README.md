@@ -31,7 +31,7 @@ Make sure you have access to:
 19. [Instructor Guide][instructor-guide]
 20. [Google Drive][google-drive]
 21. [Google Calendar][google-calendar]
-22. [Curriculum Management Tool][curriculum-management-tool]:[instructions]:[cmt-instructions]
+22. [Curriculum Management Tool][curriculum-management-tool]--[instructions]:[cmt-instructions]
 
 ## Preparation for your Cohort
 
