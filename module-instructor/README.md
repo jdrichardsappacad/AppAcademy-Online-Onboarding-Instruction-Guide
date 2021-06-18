@@ -247,7 +247,7 @@ If your module has a prep week, this will be a good time to meet with your team 
 
 ## Releasing the Next Cohort Curriculum to the Team
 
-It is usually a good idea to release the next cohort Curriculum for a/A Open to your Jr. TA's at least a week before the cohort begins. Instructions for doing this are located at this [Confluence Link][release-curriculum]. This will allow time for everyone to review what has been released and find mistakes that require hot fixes before start of the next curriculum. Students can also enroll themselves in the curriculum using the [curriculum-enroll-video]
+It is usually a good idea to release the next cohort Curriculum for a/A Open to your Jr. TA's at least a week before the cohort begins. Instructions for doing this are located at this [Confluence Link][release-curriculum]. This will allow time for everyone to review what has been released and find mistakes that require hot fixes before start of the next curriculum. Students can also enroll themselves in the curriculum using the [Curriculum Management Tool][curriculum-management-tool]
 
 ## Assessments
 
