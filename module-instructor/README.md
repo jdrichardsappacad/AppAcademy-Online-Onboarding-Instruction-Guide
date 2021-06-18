@@ -100,7 +100,7 @@ Reach out to the Cohort Assistant to see which external Slack channels you and y
 
 ### Release the Next Cohort Curriculum
 
-Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. Here is a link to the instructions for adding curriculum: [Add Course Content on AAO][course-content]. As an alternative, you can now tell them to enroll themselves using the [Curriculum Management Tool][curriculum-enroll-video].
+Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. Here is a link to the instructions for adding curriculum: [Add Course Content on AAO][course-content]. As an alternative, you can now tell them to enroll themselves using the [Curriculum Management Tool][curriculum-management-tool].
 
 ## Class Administration
 
@@ -247,7 +247,7 @@ If your module has a prep week, this will be a good time to meet with your team 
 
 ## Releasing the Next Cohort Curriculum to the Team
 
-It is usually a good idea to release the next cohort Curriculum for a/A Open to your Jr. TA's at least a week before the cohort begins. Instructions for doing this are located at this [Confluence Link][release-curriculum]. This will allow time for everyone to review what has been released and find mistakes that require hot fixes before start of the next curriculum
+It is usually a good idea to release the next cohort Curriculum for a/A Open to your Jr. TA's at least a week before the cohort begins. Instructions for doing this are located at this [Confluence Link][release-curriculum]. This will allow time for everyone to review what has been released and find mistakes that require hot fixes before start of the next curriculum. Students can also enroll themselves in the curriculum using the [curriculum-enroll-video]
 
 ## Assessments
 
@@ -339,3 +339,4 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [curriculum-management-tool]: https://cmt.appacademy.tools/
 [cmt-instructions]: https://discourse.appacademy.io/t/curriculum-management-tool/403
 [curriculum-enroll-video]: https://vimeo.com/manage/videos/564745425/d3ff9f82c5
+[curriculum-management-tool]: https://cmt.appacademy.tools/
