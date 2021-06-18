@@ -108,7 +108,7 @@ Cohort curriculum should be released to your staff at least one week before the 
 
 Make sure you have turned off all notifications on the screens you will be sharing. If there are bookmarks or links or any other material that should not be seen by students please remove them from your screen prior to class.
 
-Mute all sounds that will interrupt your lecture, especially through Slack or your own personal SMS notifications
+Mute all sounds that will interrupt your lecture, especially through Slack or your own personal SMS notifications.
 
 ### Morning Boost
 
@@ -241,7 +241,7 @@ If your module has a prep week, this will be a good time to meet with your team 
 
 1. The first responsibility for TA's on a prep week is to help any modules that need help on the floor.
 2. If there are things to improve in your regular cohort for you and your TA's this is a time to do it. (Lecture Improvements for example)
-3. This can be a good time to test your next cohort's Assement to assure it is functioning properly using the [Assessment Checker][assessment-checker] tool.
+3. This can be a good time to test your next cohort's Assessment to assure it is functioning properly using the [Assessment Checker][assessment-checker] tool.
 4. Some TA's may be ramping up to learning how to Lecture. This is a good time for you to have them practice lecture in front of the team and give suggestions for improvements.
 5. Curriculum may have items that they would like help with. You and your team can also volunteer to help them with curriculum if all other cohort preparation needs have been met.
 
