@@ -41,7 +41,14 @@ Here are some suggestions when preparing for your specific module
 
 The first thing you are going to want to do is familiarize yourself with your module's material. The best place to do this is through using App Academy Open. If you have not been given access please request it from your Senior Manager. Here you will be able to study the Readings, Videos, and Projects that will be included when teaching your Module.
 
-Another proper option for learning the written material is through using the [Modular Curriculum][modular-curriculum]
+#### Gain Access to the Curriculum
+
+To gain access to the curriculum you can use the Curriculum Module Tool to enroll yourself by using the month of the cohort and the week. You will need your App Academy credentials in order to log in.
+
+You can watch this [short video walkthrough][curriculum-enroll-video] for enrolling in curriculum weeks and having those weeks render on App Academy Open
+For a more robust walkthrough you can refer to these instructions for the [Curriculum Management Tool][cmt-instructions].
+
+Another proper option for learning the written material is through using the [Modular Curriculum][modular-curriculum] Github.
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
@@ -331,3 +338,4 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
 [curriculum-management-tool]: https://cmt.appacademy.tools/
 [cmt-instructions]: https://discourse.appacademy.io/t/curriculum-management-tool/403
+[curriculum-enroll-video]: https://vimeo.com/manage/videos/564745425/d3ff9f82c5
