@@ -45,10 +45,11 @@ The first thing you are going to want to do is familiarize yourself with your mo
 
 To gain access to the curriculum you can use the Curriculum Module Tool to enroll yourself by using the month of the cohort and the week. You will need your App Academy credentials in order to log in.
 
-You can watch this [short video walkthrough][curriculum-enroll-video] for enrolling in curriculum weeks and having those weeks render on App Academy Open
+You can watch this [short video walkthrough][curriculum-enroll-video] for enrolling in curriculum weeks and having those weeks render on App Academy Open.
+
 For a more robust walkthrough you can refer to these instructions for the [Curriculum Management Tool][cmt-instructions].
 
-Another proper option for learning the written material is through using the [Modular Curriculum][modular-curriculum] Github.
+Another proper option for learning the written material is through using the [Modular Curriculum][modular-curriculum] Github.However, that can be a bit more complicated. Reach out to an instructor or to your curriculum head to learn how to navigate to your module's information in that Github Repo.
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
@@ -82,6 +83,7 @@ It is always a good idea to meet with the incoming Cohort Assistant the week pri
 ### Setup Your Pod
 
 Before your cohort starts, make sure to place your team into the proper Pod on Progress Tracker. You will choose the pod based on the start date of the cohort.
+You can watch this [Pod Setup Video][pod-setup] and/or follow the instructions below.
 
 #### Progress Tracker Instructions
 
@@ -91,16 +93,14 @@ Before your cohort starts, make sure to place your team into the proper Pod on P
 
 This will allow them to see questions on PT for this module when choosing the Questions option.
 
-[Pod Setup Video][pod-setup]
-
 ### Add Cohort Slack Channels
 
 Students use an external Slack to communicate and ask questions.
-Reach out to the Cohort Assistant to see which external Slack channels you and your team should join for the next cohort. Add yourself to those channels before beginning the cohort.
+Reach out to the Cohort Assistant to see which external Slack channels you and your team should join for the next cohort. Add yourself as well as your Jr. Instructional Assistants to those channels before beginning the cohort.
 
 ### Release the Next Cohort Curriculum
 
-Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. Here is a link to the instructions for adding curriculum: [Add Course Content on AAO][course-content]
+Cohort curriculum should be released to your staff at least one week before the new cohort begins. You will need the [course ids][course-ids] and the Postman app to execute the release. Here is a link to the instructions for adding curriculum: [Add Course Content on AAO][course-content]. As an alternative, you can now tell them to enroll themselves using the [Curriculum Management Tool][curriculum-enroll-video].
 
 ## Class Administration
 
