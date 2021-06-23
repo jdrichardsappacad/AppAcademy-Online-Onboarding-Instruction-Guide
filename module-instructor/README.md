@@ -227,9 +227,11 @@ There may be a Culture Curriculum moment assigned to your module. It is up to yo
 
 You are expected to deliver feedback to curriculum as well as send updates, typos, mistakes and improvements to them.
 
+### Correcting Mistakes in Curriculum
+
 In order to correct mistakes that are on App Academy Open, please follow the instructions given in the [X-Curriculum-Flow][x-curriculum-guideline] guide. Refer to the `How to Contribute to Modular-Curriculum` section to understand how to use a proper git workflow on [Modular Curriculum][modular-curriculum] and create a Pull Request.
 
-If possible make any corrections as soon as possible, during your cohort, to enable the curriculum team to make changes before the two week lead in to your nest cohort. If your module has a prep week, you may collect mistakes found in the curriculum and handle all of them during that prep week.
+In order to expedite changes and meet the two week requirement for changes to be released on App Academy Open, make any corrections to curriculum and create your Pull Request ASAP.
 
 After you have made a pull request, go to the `instruction_x_curriculum` channel on Slack and mention that you have made a PR along with a short description and the PR link.
 
@@ -247,7 +249,7 @@ If your module has a prep week, this will be a good time to meet with your team 
 
 ## Releasing the Next Cohort Curriculum to the Team
 
-It is usually a good idea to release the next cohort Curriculum for a/A Open to your Jr. TA's at least a week before the cohort begins. Instructions for doing this are located at this [Confluence Link][release-curriculum]. This will allow time for everyone to review what has been released and find mistakes that require hot fixes before start of the next curriculum. Students can also enroll themselves in the curriculum using the [Curriculum Management Tool][curriculum-management-tool]
+It is usually a good idea to release the next cohort Curriculum for a/A Open to your Jr. TA's at least a week before the cohort begins. Instructions for doing this are located at this [Confluence Link][release-curriculum]. This will allow time for everyone to review what has been released and find mistakes that require hot fixes before start of the next curriculum.
 
 ## Assessments
 
