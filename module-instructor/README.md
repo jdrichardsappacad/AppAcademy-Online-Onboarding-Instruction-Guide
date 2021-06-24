@@ -246,6 +246,7 @@ If your module has a prep week, this will be a good time to meet with your team 
 3. This can be a good time to test your next cohort's Assessment to assure it is functioning properly using the [Assessment Checker][assessment-checker] tool.
 4. Some TA's may be ramping up to learning how to Lecture. This is a good time for you to have them practice lecture in front of the team and give suggestions for improvements.
 5. Curriculum may have items that they would like help with. You and your team can also volunteer to help them with curriculum if all other cohort preparation needs have been met.
+6. You may want to add assets to the curriculum. Here is a suggested guideline for quality and methods to making those additions. [Curriculum Developer Guide][curriculum-developer-guide]
 
 ## Releasing the Next Cohort Curriculum to the Team
 
@@ -268,7 +269,7 @@ You will need the course id document and the Postman app to release the assessme
 
 ### Question Answering
 
-There are restricted answers to questions during an assessment. Please follow the protocol for [Answering Questions During An Assessment][assessment-questions]
+There are restricted answers to questions during an assessment. Please follow the protocol for [Answering Questions During An Assessment][assessment-messaging]
 You should remind all involved internally of this document and procedure before the start of an Assessment.
 
 ### Scoring An Assessment
@@ -333,6 +334,7 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [pod-setup]: https://vimeo.com/558726174/fe80adb397
 [setup-assessment-video]: https://vimeo.com/543416007/a58cfad6fa
 [assessment-release-video]: https://vimeo.com/543416007/a58cfad6fa
+[assessment-messaging]: https://docs.google.com/document/d/1jTDZpUC5fcKNtp0CPX_GPGTdFdhcc1ov3kFiuu6-HoA/edit
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/lecture-tips.md
 [course-content]: https://appacademyio.atlassian.net/wiki/spaces/IN/pages/1784938501/Add%2BCourse%2BContent%2Bin%2BAAO
 [google-drive]: https://drive.google.com/drive/u/1/my-drive
@@ -342,3 +344,5 @@ If a student is having machine issues that cannot be repaired quickly, note how 
 [cmt-instructions]: https://discourse.appacademy.io/t/curriculum-management-tool/403
 [curriculum-enroll-video]: https://vimeo.com/manage/videos/564745425/d3ff9f82c5
 [curriculum-management-tool]: https://cmt.appacademy.tools/
+[curriculum-developer-guide]: https://github.com/appacademy/curriculum-developer-guide/tree/master/curriculum-standards
+[assessment-messaging]: https://docs.google.com/document/d/1jTDZpUC5fcKNtp0CPX_GPGTdFdhcc1ov3kFiuu6-HoA/edit

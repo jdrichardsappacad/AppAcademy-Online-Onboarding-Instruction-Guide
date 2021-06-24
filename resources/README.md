@@ -4,6 +4,8 @@
 2. [Lecture Tips][lecture-tips]
 3. [Navigate to Your Zoom Room][navigate-to-zoom-room]
 4. [Instructor Feedback Average][instructor-feedback-average]
+5. [Curriculum Developer Guide][curriculum-developer-guide]
+6. [Modular Curriculum][modular-curriculum]
 
 [Main Page][main-page]
 
@@ -12,3 +14,5 @@
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/module-zoom-room.md
 [instructor-feedback-average]: ./instructor-feedback-average.js
 [main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
+[curriculum-developer-guide]: https://github.com/appacademy/curriculum-developer-guide/tree/master/curriculum-standards
+[modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
