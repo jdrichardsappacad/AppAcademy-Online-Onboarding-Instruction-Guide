@@ -7,6 +7,7 @@
 5. [Curriculum Developer Guide][curriculum-developer-guide]
 6. [Modular Curriculum][modular-curriculum]
 7. [Curriculum Standards][curriculum-standards]
+8. [How App Academy Develops Curriculum Reading List][curriculum-development]
 
 [Main Page][main-page]
 
@@ -18,3 +19,4 @@
 [curriculum-standards]: https://github.com/appacademy/curriculum-developer-guide/tree/master/curriculum-standards
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [curriculum-developer-guide]: https://github.com/appacademy/curriculum-developer-guide/wiki
+[curriculum-development]: https://github.com/appacademy/curriculum-developer-guide
