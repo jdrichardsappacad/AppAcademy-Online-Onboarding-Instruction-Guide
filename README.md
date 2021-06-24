@@ -17,7 +17,8 @@ This portion of the guide contains instructions and guidelines based on the role
 This portion of the guide contains a collection of additional resources.
 Documentation on many of the applications/tools/scripts utilized by the Instruction Team can be found here.
 
-1. [Resources][resources]
+## [Resources][resources]
+
 <!-- Links -->
 
 [module-instructor]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/module-instructor
