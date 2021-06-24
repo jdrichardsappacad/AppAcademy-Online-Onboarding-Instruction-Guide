@@ -8,6 +8,10 @@
 6. [Modular Curriculum][modular-curriculum]
 7. [Curriculum Standards][curriculum-standards]
 8. [How App Academy Develops Curriculum Reading List][curriculum-development]
+9. [Instructor Guide][instructor-guide]
+10. [Adult Learning Theories][adult-learning-theories]
+11. [Malcolm Knowles and the 6 Assumptions Underlying Andragogy][malcolm-knowles-6-assumptions]
+12. [Andragogy definition][andragogy]
 
 [Main Page][main-page]
 
@@ -20,3 +24,7 @@
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [curriculum-developer-guide]: https://github.com/appacademy/curriculum-developer-guide/wiki
 [curriculum-development]: https://github.com/appacademy/curriculum-developer-guide
+[instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
+[adult-learning-theories]: https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles
+[malcolm-knowles-6-assumptions]: https://hrdevelopmentinfo.com/malcolm-knowles-and-the-six-assumptions-underlying-andragogy/
+[andragogy]: https://en.wikipedia.org/wiki/Andragogy
