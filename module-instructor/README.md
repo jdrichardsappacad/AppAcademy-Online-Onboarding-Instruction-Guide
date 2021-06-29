@@ -297,6 +297,10 @@ If a student requests more time, consult with the Cohort Assistant to arrange fo
 
 If a student is having machine issues that cannot be repaired quickly, note how much time passes between the machine failure and repair and return that time to the student for the Assessment. Also, in order to avoid student panic, let the student know sooner rather than later that the time will be returned to them. This will give them the same opportunity as all other students to complete the assessment.
 
+## Bi-Weekly Checkins
+
+You will have a bi-weekly half-hour meeting with your Senior Manager to discuss how things are progressing in your module as well as upcoming changes and additions to staff and curriculum. If you do not receive a Google Calendar invite for this regular meeting, then reach out to your Senior Manager on Slack to schedule.
+
 [Main][main-page]
 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
