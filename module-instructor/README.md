@@ -6,7 +6,7 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 
 ## **Make Sure You Have Access**
 
-You will use your App Academy Email Credentials for many of these links.
+You will use your App Academy Email Credentials for many of these links. Otherwise, for links that you cannot access, please reach out to your Senior Manager for further instruction.
 
 Make sure you have access to:
 
