@@ -21,7 +21,7 @@ You have been introduced to App Academy by HR and you have learned the philosoph
 
 ## Division of Responsibilities
 
-Refer to the [Division of Responsibilities][division-of-responsibilities] to know your role and the role of your other co-workers.
+Refer to the [Division of Responsibilities][division-responsibilities] to know your role and the role of your other co-workers.
 
 ## Preparation for your Cohort
 
@@ -157,7 +157,7 @@ console.log(
 [app-academy-open]: https://open.appacademy.io/
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
 [instructional-guide]: https://appacademy.github.io/instruction-guide/learning/
-[division-of-responsibilities]: https://docs.google.com/document/d/1mC6o4ULW6_Uo_dIPR6M9jQ7Ie25vwh5XBcNIfyw9Q4w/edit?usp=sharing
+[division-responsibilities]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/division-of-responsibilities.md
 [gravatar]: https://en.gravatar.com/
 [x-curriculum-guideline]: https://github.com/appacademy/curriculum-developer-guide/wiki/Instruction-x-Curriculum-Workflow
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/
