@@ -1,6 +1,6 @@
 # Handling Student Questions During Assessment Delivery for SWE Online
 
-This is an internal document. Please do not share it directly with students.
+**This is an internal document. Please do not share it directly with students.**
 
 The information in this document intended to be shared with students will be
 labeled as such.

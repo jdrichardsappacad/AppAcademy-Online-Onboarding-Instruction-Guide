@@ -316,7 +316,7 @@ You will have a bi-weekly half-hour meeting with your Senior Manager to discuss 
 [online-stopwatch]: https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8
 [release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
 [setup-assessment]: https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit
-[assessment-questions]: https://docs.google.com/document/d/1Q43WqzDlWYjqavD7CI1hJxAY5T7sPxHgO7zPpkJb7zg/edit?usp=sharing
+[assessment-questions]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/handling-assessment-questions.md
 [kahoot-account]: https://kahoot.com/
 [what-is-kahoot]: https://kahoot.com/what-is-kahoot/
 [1password]: https://1password.com/

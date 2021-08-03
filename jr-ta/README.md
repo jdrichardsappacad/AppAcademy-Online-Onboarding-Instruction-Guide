@@ -164,7 +164,7 @@ console.log(
 [assessment-checker]: https://github.com/appacademy/assessment_checker
 [online-stopwatch]: https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8
 [release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
-[assessment-questions]: https://docs.google.com/document/d/1Q43WqzDlWYjqavD7CI1hJxAY5T7sPxHgO7zPpkJb7zg/edit
+[assessment-questions]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/handling-assessment-questions.md
 [discourse]: https://discourse.appacademy.io/
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [progress-tracker]: https://progress.appacademy.io/
