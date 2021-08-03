@@ -42,7 +42,7 @@ Refer to the [Division of Responsibilities][division-of-responsibilities] to kno
 [app-academy-open]: https://open.appacademy.io/
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
 [instructional-guide]: https://appacademy.github.io/instruction-guide/learning/
-[division-of-responsibilities]: https://docs.google.com/document/d/1mc6o4ulw6_uo_dipr6m9jq7ie25vwh5xbcnifyw9q4w/edit
+[division-of-responsibilities]: https://docs.google.com/document/d/1mC6o4ULW6_Uo_dIPR6M9jQ7Ie25vwh5XBcNIfyw9Q4w/edit?usp=sharing
 [gravatar]: https://en.gravatar.com/
 [x-curriculum-guideline]: https://github.com/appacademy/curriculum-developer-guide/wiki/Instruction-x-Curriculum-Workflow
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/
@@ -70,4 +70,4 @@ Refer to the [Division of Responsibilities][division-of-responsibilities] to kno
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [pod-setup]: https://vimeo.com/558726174/fe80adb397
-[main-page]:https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
+[main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide

@@ -308,7 +308,7 @@ You will have a bi-weekly half-hour meeting with your Senior Manager to discuss 
 [app-academy-open]: https://open.appacademy.io/
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/module-zoom-room.md
 [instructional-guide]: https://appacademy.github.io/instruction-guide/learning/
-[division-of-responsibilities]: https://docs.google.com/document/d/1mc6o4ulw6_uo_dipr6m9jq7ie25vwh5xbcnifyw9q4w/edit
+[division-of-responsibilities]: https://docs.google.com/document/d/1mC6o4ULW6_Uo_dIPR6M9jQ7Ie25vwh5XBcNIfyw9Q4w/edit?usp=sharing
 [gravatar]: https://en.gravatar.com/
 [x-curriculum-guideline]: https://github.com/appacademy/curriculum-developer-guide/wiki/Instruction-x-Curriculum-Workflow
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/
@@ -316,7 +316,7 @@ You will have a bi-weekly half-hour meeting with your Senior Manager to discuss 
 [online-stopwatch]: https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8
 [release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
 [setup-assessment]: https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit
-[assessment-questions]: https://docs.google.com/document/d/1Q43WqzDlWYjqavD7CI1hJxAY5T7sPxHgO7zPpkJb7zg/edit
+[assessment-questions]: https://docs.google.com/document/d/1Q43WqzDlWYjqavD7CI1hJxAY5T7sPxHgO7zPpkJb7zg/edit?usp=sharing
 [kahoot-account]: https://kahoot.com/
 [what-is-kahoot]: https://kahoot.com/what-is-kahoot/
 [1password]: https://1password.com/
