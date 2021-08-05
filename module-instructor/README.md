@@ -233,7 +233,9 @@ In order to correct mistakes that are on App Academy Open, please follow the ins
 
 In order to expedite changes and meet the two week requirement for changes to be released on App Academy Open, make any corrections to curriculum and create your Pull Request ASAP.
 
-After you have made a pull request, go to the `instruction_x_curriculum` channel on Slack and mention that you have made a PR along with a short description and the PR link.
+After you have made a pull request, go to the `instruction_x_curriculum` channel
+on Slack and mention that you have made a PR, include your Module Number along
+with a short description and the PR link.
 
 ## Prep Week
 
