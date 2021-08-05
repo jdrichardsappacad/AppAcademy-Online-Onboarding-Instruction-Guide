@@ -100,7 +100,22 @@ Sometimes students are allowed more time due to pre-existing conditions or disab
 
 If a student requests more time, consult with the Cohort Assistant to arrange for it. If there is no Cohort Assistant inform your Module Instructor and they will reach out to the Senior Instructional Manager to receive permission to give extra time.
 
-If a student is having machine issues that cannot be repaired quickly, note how much time passes between the machine failure and repair and return that time to the student for the Assessment. Also, in order to avoid student panic, let the student know sooner rather than later that the time will be returned to them. This will give them the same opportunity as all other students to complete the assessment.
+If a student is having machine issues that cannot be repaired quickly, note how
+much time passes between the machine failure and repair and return that time to
+the student for the Assessment. Also, in order to avoid student panic, let the
+student know sooner rather than later that the time will be returned to them.
+This will give them the same opportunity as all other students to complete the
+assessment.
+
+### Correcting Mistakes in Curriculum
+
+In order to correct mistakes that are on App Academy Open, please follow the instructions given in the [X-Curriculum-Flow][x-curriculum-guideline] guide. Refer to the `How to Contribute to Modular-Curriculum` section to understand how to use a proper git workflow on [Modular Curriculum][modular-curriculum] and create a Pull Request.
+
+In order to expedite changes and meet the two week requirement for changes to be released on App Academy Open, make any corrections to curriculum and create your Pull Request ASAP.
+
+After you have made a pull request, go to the `instruction_x_curriculum` channel
+on Slack and mention that you have made a PR, include your Module Number along
+with a short description and the PR link.
 
 ### Reviews
 
