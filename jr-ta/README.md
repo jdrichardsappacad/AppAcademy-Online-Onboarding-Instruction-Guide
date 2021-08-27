@@ -1,4 +1,4 @@
-# Jr. TA Onboarding
+# Jr. IA Onboarding
 
 This onboarding tool is meant for you to learn more about the nuts and bolts of being a Junior Teaching Assistant.
 
@@ -39,9 +39,9 @@ Another proper option for learning the written material is through using the [Mo
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
-### Shadow a Jr. TA or Senior Instructor
+### Shadow a Jr. IA or Senior Instructor
 
-You will shadow one or more Jr. TA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone.
+You will shadow one or more Jr. IA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone.
 
 ### Lecture
 
