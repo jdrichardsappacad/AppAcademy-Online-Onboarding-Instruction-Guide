@@ -201,4 +201,4 @@ console.log(
 [debugging]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.yf44acf1qaiy
 [anatomy-of-answering-questions]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.tu721xd89uwd
 [main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
-[how-to-answer-student-questions]: https://github.com/appacademy/SWE-Online-Instruction-Guide/edit/master/onboarding/how-to-answer-student-questions.md
+[how-to-answer-student-questions]: ./resources/how-to-answer-student-questions
