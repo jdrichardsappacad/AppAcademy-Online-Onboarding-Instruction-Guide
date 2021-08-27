@@ -143,7 +143,14 @@ Based on the [Division of Responsibilities][division-of-responsibilities] docume
 6. After you have completed the question(s), return to the Progress Tracker and hover over the question square with your avatar. A sidebar with `Close` should be displayed.
 7. Choose `Close` to close out your question.
 
-If there are no more long standing questions you can go back to prepping for your next lecture or any other duties you have been assigned.
+If there are no more long standing questions you can go back to prepping for
+your next lecture or any other duties you have been assigned.
+
+#### How To Answer Student Questions During Pair Programming
+
+You should follow [this protocol][how-to-answer-student-questions] when
+answering questions in the Breakout Rooms. Also, delegate this protocol to your
+jr IA's.
 
 ### Kahoot End of Week
 
@@ -271,7 +278,10 @@ You will need the course id document and the Postman app to release the assessme
 
 ### Question Answering
 
-There are restricted answers to questions during an assessment. Please follow the protocol for [Answering Questions During An Assessment][assessment-messaging]
+There are restricted answers to questions during an assessment. Please follow
+the protocol for [Answering Questions During An
+Assessment][assessment-messaging]
+
 You should remind all involved internally of this document and procedure before the start of an Assessment.
 
 ### Scoring An Assessment
@@ -352,3 +362,4 @@ You will have a bi-weekly half-hour meeting with your Senior Manager to discuss 
 [curriculum-management-tool]: https://cmt.appacademy.tools/
 [curriculum-developer-guide]: https://github.com/appacademy/curriculum-developer-guide/tree/master/curriculum-standards
 [assessment-messaging]: https://docs.google.com/document/d/1jTDZpUC5fcKNtp0CPX_GPGTdFdhcc1ov3kFiuu6-HoA/edit
+[how-to-answer-student-questions]: https://github.com/appacademy/SWE-Online-Instruction-Guide/edit/master/onboarding/how-to-answer-student-questions.md

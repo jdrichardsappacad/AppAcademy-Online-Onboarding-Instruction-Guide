@@ -1,4 +1,4 @@
-# Jr. TA Onboarding
+# Jr. IA Onboarding
 
 This onboarding tool is meant for you to learn more about the nuts and bolts of being a Junior Teaching Assistant.
 
@@ -39,9 +39,9 @@ Another proper option for learning the written material is through using the [Mo
 
 If there are recorded sessions of your Module's Lectures, this may also help you to get a feel for how your module's lecture is currently administered.
 
-### Shadow a Jr. TA or Senior Instructor
+### Shadow a Jr. IA or Senior Instructor
 
-You will shadow one or more Jr. TA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone.
+You will shadow one or more Jr. IA's for a few days or until the Module Instructor and you feel that you are ready to take questions alone.
 
 ### Lecture
 
@@ -70,7 +70,11 @@ You are responsible for answering student questions via the Progress Tracker Too
 
 #### Debugging
 
-Refer to the suggestions from the [Instructor's Guide][debugging] in terms of debugging.
+You're approach to answering questions in the Breakout Rooms should follow the
+protocol from the [How To Answer Student Questions][how-to-answer-student-questions] document.
+
+Also, refer to the suggestions from the [Instructor's Guide][debugging] in terms of
+debugging.
 
 ## Answering Questions During An Assessment
 
@@ -197,3 +201,4 @@ console.log(
 [debugging]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.yf44acf1qaiy
 [anatomy-of-answering-questions]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.tu721xd89uwd
 [main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
+[how-to-answer-student-questions]: https://github.com/appacademy/SWE-Online-Instruction-Guide/edit/master/onboarding/how-to-answer-student-questions.md
