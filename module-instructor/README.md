@@ -362,5 +362,5 @@ You will have a bi-weekly half-hour meeting with your Senior Manager to discuss 
 [curriculum-management-tool]: https://cmt.appacademy.tools/
 [curriculum-developer-guide]: https://github.com/appacademy/curriculum-developer-guide/tree/master/curriculum-standards
 [assessment-messaging]: https://docs.google.com/document/d/1jTDZpUC5fcKNtp0CPX_GPGTdFdhcc1ov3kFiuu6-HoA/edit
-[how-to-answer-student-questions]:
-https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/how-to-answer-student-questions.md
+[how-to-answer-student-questions]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/how-to-answer-student-questions.md
+[how-to-answer-student-questions-2021]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/how-to-answer-student-questions-2021.md
