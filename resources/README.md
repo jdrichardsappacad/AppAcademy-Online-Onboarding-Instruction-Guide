@@ -13,10 +13,12 @@
 11. [Malcolm Knowles and the 6 Assumptions Underlying Andragogy][malcolm-knowles-6-assumptions]
 12. [Andragogy definition][andragogy]
 13. [How To Answer Student Questions][how-to-answer-student-questions-2021]
-    14: [Curriculum Developer Guide][curriculum-developer-guide]
+14. [Curriculum Developer Guide][curriculum-developer-guide]
+15. [Student-Facing Discussion: Assessment Delivery for SWE
+    Online][assessment-delivery-for-swe-online]
 
 [Main Page][main-page]
-
+[assessment-delivery-for-swe-online]:https://docs.google.com/document/d/1jTDZpUC5fcKNtp0CPX_GPGTdFdhcc1ov3kFiuu6-HoA/edit#heading=h.i9fzt4d5psr4
 [code-of-conduct]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/code-of-conduct.md
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/lecture-tips.md
 [navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/module-zoom-room.md
