@@ -18,6 +18,7 @@
     Online][assessment-delivery-for-swe-online]
 
 [Main Page][main-page]
+[assessment-delivery-for-swe-online]:https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/assessment-delivery-for-swe-online.md
 [assessment-delivery-for-swe-online]:https://docs.google.com/document/d/1jTDZpUC5fcKNtp0CPX_GPGTdFdhcc1ov3kFiuu6-HoA/edit#heading=h.i9fzt4d5psr4
 [code-of-conduct]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/code-of-conduct.md
 [lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/lecture-tips.md
